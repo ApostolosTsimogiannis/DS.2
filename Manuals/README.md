@@ -1,6 +1,9 @@
 # DS.2 RC Helicopter Build Manual:
 
-## Introduction:
+<details>
+  
+
+<summary> ## Introduction: </summary>
 
 The DS.2 is the second helicopter of the DS.Z RC Heli Project. The helicopter was designed with the flowing goals:
 Make a fully 3D capable RC helicopter.
@@ -31,6 +34,7 @@ Licensing:
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 
+</details>
 
 ## General information about the build:
 
