@@ -30,7 +30,6 @@ or send a friend request to “DS.X RC Heli Project” on FB and message me.
 Licensing:
 This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-<img width="2401" height="949" alt="image" src="https://github.com/user-attachments/assets/1868057d-b3ad-4b32-bda2-51e0066ca1c8" />
 
 
 ## General information about the build:
@@ -38,24 +37,23 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 The DS.2 is a RC helicopter intended for hobbyists with advanced knowledge of assembling helicopters and tool skills to build or adapt parts. 
 
 The builder must be capable and have the tools to:
-Drill precision holes in hardened shafts.
-Cut hardened shafts.
-Use drills or other tools to drill or clean holes and bearing seats.
+  Drill precision holes in hardened shafts.
+  Cut hardened shafts.
+  Use drills or other tools to drill or clean holes and bearing seats.
 
 The model is built using the following materials:
-Carbon sheet
-MJF (MultiJet Fusion) 3D printed parts
-FDM 3D printed parts
-Existing parts of commercially available RC helicopters
-Bearings, screws, belts widely available in the market.
+  Carbon sheet
+  MJF (MultiJet Fusion) 3D printed parts
+  FDM 3D printed parts
+  Existing parts of commercially available RC helicopters
+  Bearings, screws, belts widely available in the market.
 
 The usual materials and tools are required:
-Thread lock
-Epoxy glue
-Lubricating oil
-Soldering iron
-Hex, torx and other drivers, depending on the screws used.
-
+  Thread lock
+  Epoxy glue
+  Lubricating oil
+  Soldering iron
+  Hex, torx and other drivers, depending on the screws used.
 
 Many of the parts needed are common among various RC helicotpter models available in the market such as Mikado Logo 600 series, Goosky RS5 or RS6, Align etc. so parts fro mthose helis may be available to the builder from other projects.
 All parts, except from the shafts (main, spindle, 1st Stage, tail, tail spindle) can be found in the market. It is recommended the shafts are bought from existing models unless the builder has access to machining and case hardening.
