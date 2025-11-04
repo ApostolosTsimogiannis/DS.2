@@ -28,3 +28,7 @@ DS.2 is a mostly 3D printable 570 size RC helicopter.
 > This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
 <br>
+
+> ## Disclaimer:
+> Remote Control (RC) Helicopters can cause harm or death to people and animals and damage to property. By following the information shared in this repository, downloading the part files, and building the helicopters, or using the parts in other ways, the user agrees that all responsibility lies with them. The designer is not liable for any harm or damages arising from the use or these parts and cannot guarantee in any way the operation of the components or the helicopter as a whole. Using the parts, assembling the helicopter and using it, is at the users own risk and they hold all resposnibility and liability. Operate all RC vehicles in accordance with safety guidelines and local law requirements.
+<br>
