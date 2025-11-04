@@ -378,9 +378,33 @@ Assemble parts using thread lock for the set screw. Mikado 550/600 tail parts ca
 </details>
 <br>
 
-## :
+## Main Frame Assembly:
 <details> 
 <summary> Open Chapter </summary>
+
+Assemble all parts as shown below. It is important to get all belts on at this stage.
+
+Use 5x 0.5mm Ø10 washers under the OWB if using a Mikado 600 OWB hub and one above the tail pulley.
+
+Add one 0.5mm Ø10 washer at the top and bottom of the Stage 1 shaft.
+
+
+<img width="1194" height="713" alt="image" src="https://github.com/user-attachments/assets/baff383a-639a-4bda-a78b-571868aceb4b" />
+
+Assemble the side frames as shown below.
+Use screws for plastic in all MJF parts.
+Assemble both side frames to check any vetical play of the main and stage 1 shafts. Add or remove washers as needed to make sure the shaft is not compressed between the plates and that there is no play. Also check that the OWB pulley is not sitting too low and touches the frame.
+
+<img width="1814" height="1125" alt="image" src="https://github.com/user-attachments/assets/76d5431a-8f2e-4012-9f99-9666fefc1e02" />
+
+Other parts can be fitted now like the tail belt guide pulleys and all the servo supports. These can be removed and replaced at any point since they are easy to get to.
+These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred. 
+
+<img width="424" height="461" alt="image" src="https://github.com/user-attachments/assets/5646b458-cb6e-4347-8b8f-6778b8d398b9" />
+
+<img width="470" height="448" alt="image" src="https://github.com/user-attachments/assets/4c163624-08a3-46cf-ae2f-f65f8a9f7e62" />
+
+
 
 
 </details>
