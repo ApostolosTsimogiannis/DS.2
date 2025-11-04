@@ -27,10 +27,16 @@ If you want to ask anything contact me at:
 apostolos.tsimogiannis@gmail.com 
 
 or send a friend request to “DS.X RC Heli Project” on FB and message me.
+<br>
+<br>
 
 > ## Licensing:
 > This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
 To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
+<br>
+
+> ## Disclaimer:
+> Remote Control (RC) Helicopters are not toys. They can cause harm and damage to property. By following the information shared in this repository, downloading the part files, and building the helicopter, or using the parts in other ways the user agrees that all responsibility lies with them. The designer is not liable for any harm or damages arising from the use or these parts and cannot guarantee in any way the operation of the components or the helicopter as a whole. Using the parts, assembling the helicopter and using it, is at the users own risk and they bear all resposnibility and liability.
 <br>
 
 ## General information about the build:
@@ -79,9 +85,352 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 <br>
 
 ## Parts Needed:
+<details> 
+<summary> Open Chapter </summary>
+</details>
+<br>
+
+## Making the Main and Stage 1 Shafts:
+<details> 
+<summary> Open Chapter </summary>
+
+The main shaft can be manufactured from different shafts in the market. Mikado 199mm shaft is convenient as it has the top hole at the right position. The 1st stage shaft can be made from any 10mm shaft on the market. <br>
+Since the shafts are hardened, it is recommended that the position of the drilling is lightly flattened with a Dremel disk so the case hardening is removed and it becomes easier to drill. Use a low speed drill. <br>
+Some dimensions do not need to be exactly as shown below. Shaft length can be up to +2mm. Hole positioning can be within 1mm or more of the shown dimension, but consider the following:The relative distance between the too holes on the Stagge 1 shaft needs to be accurate for parts to fit, and for links to have the dimensions shown in this manual, the relative distance between the two holes on the main shaft needs to be accurate. 
+
+<img width="437" height="360" alt="image" src="https://github.com/user-attachments/assets/fea108eb-678d-465d-9822-78396d7c669a" />
+
+<img width="1280" height="370" alt="image" src="https://github.com/user-attachments/assets/0dfadad3-0176-4c39-8caa-c235420aae5b" />
+
+  
+</details>
+<br>
+
+## Stage 1 Shaft Assembly:
+<details> 
+<summary> Open Chapter </summary>
+
+### Preparation:
+Use a 10mm diameter drill bit to clean out the shaft hole of the printed pulleys. Do not use a normal high speed drill. If you do not have a low speed drill press, use a choke and drill bit, and drive it through by hand, turning as you go. Go back and forth s few times to clean out any surface debris form the printing process.
+Use the 2nd M3 thread tool to tap the smaller diameter hole side. This is were the positioning bolt will thread into. <br>
+Assemble as shown below.
+
+<img width="413" height="660" alt="image" src="https://github.com/user-attachments/assets/7c68d83c-08ca-4446-916c-3249d4dcc54b" />
+
+<img width="368" height="398" alt="image" src="https://github.com/user-attachments/assets/f2e23f2a-0c7f-441e-9eea-10f1ac36bec0" />
+  
+</details>
+<br>
+
+## Main Shaft and Stage 2 Assembly:
+<details> 
+<summary> Open Chapter </summary>
+
+### Preparation:
+Clean all surfaces and the 10mm shaft hole of the tail pulley as in the previous section. <br><br>
+Assemble as shown below.<br>
+Use 2x0.5mm washers between the OWB and the tail pulley.<br>
+For a Mikado OWB hub (shown below) use 5x0.5mm washers below the OWB.<br>
+Use 1x0.5mm washer above the tail pulley.<br>
+
+<img width="1280" height="408" alt="image" src="https://github.com/user-attachments/assets/a99ab3b2-1289-4a3e-903c-01bcb0cd8a03" />
 
 
+<img width="331" height="444" alt="image" src="https://github.com/user-attachments/assets/bbf51d05-3f42-4d88-8f32-e6624dbb4bf6" />
 
+  
+</details>
+<br>
+
+## Lower Plate Assembly:
+<details> 
+<summary> Open Chapter </summary>
+
+### Preparation:
+Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use air gun if you have one.<br>
+Prepare a small amount of two-part epoxy. <br> <br>
+Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.<br>
+The 4 screws are plastic-specific screws 2.9x6mm. If you cannot find self tapping flat tip ones, and you use pointed screws it’s suggested you cut the tip and do not allow it to protrude.
+
+<img width="730" height="413" alt="image" src="https://github.com/user-attachments/assets/4f12fbdd-1aed-47e5-8be4-4bdacd70b153" />
+
+<img width="633" height="403" alt="image" src="https://github.com/user-attachments/assets/2a42df7e-98fe-457a-85dd-5f6713cb37ca" />
+
+
+</details>
+<br>
+
+## Mid Plate Assembly:
+<details> 
+<summary> Open Chapter </summary>
+
+### Preparation:
+Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use air gun if you have one.<br>
+Prepare a small amount of two-part epoxy. <br><br>
+Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.
+
+<img width="667" height="460" alt="image" src="https://github.com/user-attachments/assets/726d1275-6599-4979-baa8-00fd7f9ec9ca" />
+
+<img width="587" height="368" alt="image" src="https://github.com/user-attachments/assets/05292e70-39a3-4e43-a4af-dc61ef3306cb" />
+
+</details>
+<br>
+
+## Top Plate Assembly:
+<details> 
+<summary> Open Chapter </summary>
+### Preparation:
+Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use air gun if you have one.<br>
+Prepare a small amount of two-part epoxy for the bearing only. In this instance the 3D printed parts are fitted without glue so they can easily be replaced. <br><br>
+Use epoxy at the areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. <br> <br>
+
+
+<img width="505" height="319" alt="image" src="https://github.com/user-attachments/assets/da06a9f7-9e8c-4000-8e8b-632c5af7616e" />
+
+15mm servo supports shown <br>
+
+<img width="515" height="355" alt="image" src="https://github.com/user-attachments/assets/bb24334e-8ee4-4b60-b9de-cd66f061894a" />
+
+Assembled plate with 15mm servo support <br>
+
+<img width="590" height="400" alt="image" src="https://github.com/user-attachments/assets/b5d8e06b-0077-497c-85f9-a80b17f9ad7e" />
+
+Assembled plate with and 20mm servo supports <br>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
+<br>
+
+## :
+<details> 
+<summary> Open Chapter </summary>
+
+
+</details>
 
 
 
