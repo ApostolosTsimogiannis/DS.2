@@ -1,4 +1,4 @@
-# DS.2 RC Helicopter Build Manual
+# DS.2 RC Helicopter Build Manual:
 
 ## Introduction:
 
