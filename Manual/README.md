@@ -418,16 +418,20 @@ Add one 0.5mm Ø10 washer at the top and bottom of the Stage 1 shaft.
 
 
 <img width="1194" height="713" alt="image" src="https://github.com/user-attachments/assets/baff383a-639a-4bda-a78b-571868aceb4b" />
+<br>
+<br>
 
 
 Assemble the side frames as shown below.
 Use screws for plastic in all MJF parts.
 Assemble both side frames to check any vetical play of the main and stage 1 shafts. Add or remove washers as needed to make sure the shaft is not compressed between the plates and that there is no play. Also check that the OWB pulley is not sitting too low and touches the frame.
 
-<img width="1814" height="1125" alt="image" src="https://github.com/user-attachments/assets/76d5431a-8f2e-4012-9f99-9666fefc1e02" />
+<img width="1306" height="835" alt="image" src="https://github.com/user-attachments/assets/198f1ab9-2b12-43fb-8a59-f59fcc9968e9" />
+<br>
+<br>
 
 
-Other parts can be fitted now like the tail belt guide pulleys and all the servo supports. These can be removed and replaced at any point since they are easy to get to.
+Once the shafts are fitted with the right tolerance, other parts can be fitted now like the motor and tail belt guide pulleys and all the servo supports. The taio belt guide pulley assemblies can be removed and replaced at any point since they are easy to get to.
 These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred. 
 
 <img width="424" height="461" alt="image" src="https://github.com/user-attachments/assets/5646b458-cb6e-4347-8b8f-6778b8d398b9" />
