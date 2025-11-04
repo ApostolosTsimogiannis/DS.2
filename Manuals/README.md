@@ -86,7 +86,54 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 
 ## Parts Needed:
 <details> 
+  
 <summary> Open Chapter </summary>
+
+|Description|Qty|Use|Remarks|
+|---|---|---|---|
+|8x16x5 bearing|	4|	Grip	|   |
+|8x16x5 thrust bearing|	2|	Grip	|F8-16M|
+|10x19x5 flanged bearing|	5| Main and Stage 1| shaft	|F6800-ZZ|
+|6x13x5 bearing|	1|	Motor support	| |
+|3x7x3 bearing|	10|	Tail belt guides, tail arm, stage 1 belt idler, stage 2 belt idler|	683ZZ|
+|5x13x4 flanged bearing|	2|	Tail case for 5mm tail shaft|	F695|
+|6x10x2.5 bearing|	2|	Tail slider|	MR106 W2.5|
+|4x8x3 bearing|	2|	Tail grip|	MR84ZZ|
+|4x8x3.5 thrust|	2|	Tail grip|	F4x8S|
+|4x8x2 bearing|	2|	Tail grip|	MR84|
+|3x8x4 bearing|	??|	Stage 2 belt idler ??|	693ZZ|
+|Belt HTD 3M 234mm/10mm (L/W)|	1|	Stage 1 belt|	Prefer flexible belts|
+|Belt HTD 3M 234mm/15mm (L/W)|	1|	Stage 2| belt|	Prefer flexible belts|
+|Belt HTD 3M 1680-1698mm/6mm| 	1|	Tail belt|	Use any length available. Adjust tail boom length accordingly.|
+|  |  |  |  |			
+|Washer| | | |			
+|Washer| | | |
+|Washer| | | |
+|washer| | | |
+|2.9x6mm screws for plastic|	4|	frame| |
+|  |  |  |  |			
+|  |  |  |  |			
+|  |  |  |  |			
+|  |  |  |  |			
+|  |  |  |  |			
+|  |  |  |  |			
+|  |  |  |  |		
+|Stage 1 shaft, 10mm dia, 57mm length|	1|	Stage 1 shaft|	See drawing for hole position and size.|
+|Main shaft, 10mm dia, 184mm length|	1|	Main shaft|	See drawing for hole positions and size.|
+Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptations to fit other spindles is possible but depending on length the helicopter response and flying characteristics will change.|
+|Tail shaft and spindle|	1|	Tail|	Tail shafts and the corresponding spindles can be used: 			Mikado Logo 600/550 series			Goosky RS5 			Other models will fit as long as they are 5mm or 6mm diameter. Some modification to the control mechanism may be required to get the required CW/CCW throws.|
+|Swash|	1|	Head|	Any swash that is designed for a 10mm shaft can be used. The original design head geometry requires the two front ball links to be 62mm to 63mm center distance. Using any swash in the market, a set of ball links can be found to fit this requirement. Other distance will alter the linearity of the head.			Swash plate from Align, Mikado, Steam etc will work. See more details further in the manual.|
+|One Way Bearing (OWB) and Hub|	1|	Main shaft transmission|	A suitable main shaft OWB is required. The main pulley is designed for the Mikado Logo 600 OWN and hub but it can be adapted to other hubs in the market. The file is in STEP format so it can be adapted. With users adapting it to other hubs the file download will be expanded to include parts ready to accept other OWB hubs.|
+|17T HTD 3M motor pulley|	1|	Stage 1 transmission|	An alu pulley is needed at the motor. These are readily available in the market (usually AF type for 10mm belt).|
+|Dowel pins 3mm|	3|	Tail belt tensioners|	2x19mm, 1x28mm|
+|Dowel pins 2mm|	1|	Tail pulley	|
+|  |  |  |  |		
+|  |  |  |  |		
+
+
+
+
+
 </details>
 <br>
 
