@@ -36,7 +36,7 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 <br>
 
 > ## Disclaimer:
-> Remote Control (RC) Helicopters are not toys. They can cause harm and damage to property. By following the information shared in this repository, downloading the part files, and building the helicopter, or using the parts in other ways the user agrees that all responsibility lies with them. The designer is not liable for any harm or damages arising from the use or these parts and cannot guarantee in any way the operation of the components or the helicopter as a whole. Using the parts, assembling the helicopter and using it, is at the users own risk and they bear all resposnibility and liability.
+> Remote Control (RC) Helicopters are not toys. They can cause harm or death to people and animals and damage to property. By following the information shared in this repository, downloading the part files, and building the helicopter, or using the parts in other ways the user agrees that all responsibility lies with them. The designer is not liable for any harm or damages arising from the use or these parts and cannot guarantee in any way the operation of the components or the helicopter as a whole. Using the parts, assembling the helicopter and using it, is at the users own risk and they bear all resposnibility and liability.
 <br>
 
 ## General information about the build:
