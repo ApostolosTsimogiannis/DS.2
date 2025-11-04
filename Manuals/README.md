@@ -84,7 +84,7 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 <br>
 <br>
 
-## Parts Needed:
+## Mechanical Parts Needed:
 <details> 
   
 <summary> Open Chapter </summary>
@@ -111,12 +111,6 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 |Washer| | | |
 |washer| | | |
 |2.9x6mm screws for plastic|	4|	frame| |
-|  |  |  |  |			
-|  |  |  |  |			
-|  |  |  |  |			
-|  |  |  |  |			
-|  |  |  |  |			
-|  |  |  |  |			
 |  |  |  |  |		
 |Stage 1 shaft, 10mm dia, 57mm length|	1|	Stage 1 shaft|	See drawing for hole position and size.|
 |Main shaft, 10mm dia, 184mm length|	1|	Main shaft|	See drawing for hole positions and size.|
@@ -129,8 +123,7 @@ Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |Dowel pins 2mm|	1|	Tail pulley	|
 |  |  |  |  |		
 |  |  |  |  |		
-
-
+|  |  |  |  |		
 
 
 
