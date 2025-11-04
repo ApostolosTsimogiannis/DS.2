@@ -244,9 +244,32 @@ Mikado grip-arm ball links work well.
 </details>
 <br>
 
-## :
+## Head Assembly:
 <details> 
 <summary> Open Chapter </summary>
+
+## Damped Head:<br>
+
+### Preparation:<br>
+
+Clean all 3D printed parts of any nylon powder residue on the surface and especially in the damper seat.<br>
+Make sure all M3 bolts can pass through the main head block.<br>
+
+Per grip you will need:<br>
+6x M3x25<br>
+6x M3 lock nuts<br>
+
+Assemble the main head block withe the dampers and the spindle first.<br>
+The M3 bolts will pass through by lightly threading them (they will cut a thread
+into the damper).
+
+<img width="1014" height="720" alt="image" src="https://github.com/user-attachments/assets/92e63146-1983-41e2-909d-ef2ab2d27f84" />
+
+<img width="627" height="475" alt="image" src="https://github.com/user-attachments/assets/4211668a-0e26-4ab3-95fc-6a52e59785a3" />
+
+## Undamped Head:
+
+The assembly and preparation are identical. There are just no dampers!
 
 
 </details>
