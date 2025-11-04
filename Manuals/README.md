@@ -41,7 +41,7 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 ## General information about the build:
 
-The DS.2 is a RC helicopter intended for hobbyists with advanced knowledge of assembling helicopters and tool skills to build or adapt parts. 
+The DS.2 is a RC helicopter intended for hobbyists with advanced knowledge of assembling helicopters and tool skills to build or adapt parts. This manual is not a exhaustive presentation of the build process and good assembly practices and knowledge of RC helicopter assembly are prerequisites for this build.
 
 The builder must be capable and have the tools to:
 
@@ -201,9 +201,44 @@ Assembled plate with and 20mm servo supports <br>
 </details>
 <br>
 
-## :
+## Main Grip Assembly:
 <details> 
 <summary> Open Chapter </summary>
+
+### Preparation:
+
+Clean the bearings seats inside the grip with a small screwdriver and a square tip tool. Make sure there is no nylon powder residue on the surface and especially in the bearing seat.
+Tap the grip arm ball link bolt hole with M3 tap tool. Do not bottom out the tool. Clean the four M3 holes and make sure the M3x30 bolts go through.
+<br>
+<br>
+Per grip you will need:<br>
+1x M3x16<br>
+1x M3 washer<br>
+4x M3x30<br>
+4x M3 lock nuts<br>
+1x M4x35<br>
+1x M4 lock  nut <br>
+2x 8x16x5 bearings<br>
+1x 8x16x5 thrust bearing<br>
+1x Ø10 washer (0.5, 0.2, 0.1 as needed)<br>
+1x 8x0.5 washer<br>
+<br>
+Grease the thrust bearing as needed and position it with the small diameter to the outside.
+<br>
+
+Use the inner Ø10 washers as needed to allow
+minimal play of each grip when assembled (~0.2mm total gap).
+
+The Ø8 washer must only contact the inner race of the outer bearing.
+
+You can leave the ball link for later, as you need to add the grip arm link
+before you insert the bolt into the grip (highlighted on the drawing).
+The grip arm ball link can be from any helicopter as long as it fits an M3 bolt.
+Mikado grip-arm ball links work well.
+
+<img width="1096" height="371" alt="image" src="https://github.com/user-attachments/assets/1ca3f094-87b1-4845-9912-ecaf7855d251" />
+
+<img width="652" height="526" alt="image" src="https://github.com/user-attachments/assets/b28b872b-0f4a-4f95-8db3-ef2826d7fc8c" />
 
 
 </details>
