@@ -37,9 +37,13 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 The DS.2 is a RC helicopter intended for hobbyists with advanced knowledge of assembling helicopters and tool skills to build or adapt parts. 
 
 The builder must be capable and have the tools to:
+
   Drill precision holes in hardened shafts.
+
   Cut hardened shafts.
+  
   Use drills or other tools to drill or clean holes and bearing seats.
+
 
 The model is built using the following materials:
   Carbon sheet
