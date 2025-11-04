@@ -27,6 +27,9 @@ If you want to ask anything contact me at:
 apostolos.tsimogiannis@gmail.com 
 
 or send a friend request to “DS.X RC Heli Project” on FB and message me.
+
+You can see videos of the DS.2 and other projects at https://www.youtube.com/@apostolosnt.
+
 <br>
 <br>
 
