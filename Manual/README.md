@@ -381,6 +381,31 @@ Assemble parts using thread lock for the set screw. Mikado 550/600 tail parts ca
 </details>
 <br>
 
+## Motor Assembly:
+<details> 
+<summary> Open Chapter </summary>
+
+### Preparation:
+
+Clean the bearings seat of the lower plate with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface and especially in the bearing seat.
+
+To mount the motor plates to the frame screws for plastic or bolts can be used. 
+If using bolts, the holes must be tapped. Tap the 4x M3 holes of the top plate and the 4x M2.5 on the lower plate. Do not tap al the way through so the last few threads lock into the plastic.
+
+Also tap the 1x M3 position on the lower frame, where the tensioner roller bolt will thread into.
+
+
+Assemble the motor on the motor plates. The motor plate hole pattern is 2xM4 25mm and 2x M4 30mm.<br>
+1x 6x13x5 bearing.<br>
+2x M4x10 bolts (or other depending on the motor used).<br>
+1x HTD 3M 17T pulley. Other sizes can be used. Belt length or tensioner diameter may need to be adjusted.<br>
+
+<img width="975" height="659" alt="image" src="https://github.com/user-attachments/assets/50d2e15c-5ade-4ea2-b404-4bbcb50fa29e" />
+
+</details>
+<br>
+
+
 ## Main Frame Assembly:
 <details> 
 <summary> Open Chapter </summary>
@@ -394,11 +419,13 @@ Add one 0.5mm Ø10 washer at the top and bottom of the Stage 1 shaft.
 
 <img width="1194" height="713" alt="image" src="https://github.com/user-attachments/assets/baff383a-639a-4bda-a78b-571868aceb4b" />
 
+
 Assemble the side frames as shown below.
 Use screws for plastic in all MJF parts.
 Assemble both side frames to check any vetical play of the main and stage 1 shafts. Add or remove washers as needed to make sure the shaft is not compressed between the plates and that there is no play. Also check that the OWB pulley is not sitting too low and touches the frame.
 
 <img width="1814" height="1125" alt="image" src="https://github.com/user-attachments/assets/76d5431a-8f2e-4012-9f99-9666fefc1e02" />
+
 
 Other parts can be fitted now like the tail belt guide pulleys and all the servo supports. These can be removed and replaced at any point since they are easy to get to.
 These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred. 
