@@ -36,7 +36,7 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 <br>
 
 > ## Disclaimer:
-> Remote Control (RC) Helicopters are not toys. They can cause harm or death to people and animals and damage to property. By following the information shared in this repository, downloading the part files, and building the helicopter, or using the parts in other ways the user agrees that all responsibility lies with them. The designer is not liable for any harm or damages arising from the use or these parts and cannot guarantee in any way the operation of the components or the helicopter as a whole. Using the parts, assembling the helicopter and using it, is at the users own risk and they bear all resposnibility and liability.
+> Remote Control (RC) Helicopters can cause harm or death to people and animals and damage to property. By following the information shared in this repository, downloading the part files, and building the helicopters, or using the parts in other ways, the user agrees that all responsibility lies with them. The designer is not liable for any harm or damages arising from the use or these parts and cannot guarantee in any way the operation of the components or the helicopter as a whole. Using the parts, assembling the helicopter and using it, is at the users own risk and they hold all resposnibility and liability. Operate all RC vehicles in accordance with safety guidelines and local law requirements.
 <br>
 
 ## General information about the build:
@@ -275,17 +275,64 @@ The assembly and preparation are identical. There are just no dampers!
 </details>
 <br>
 
-## :
+## Tail Grip Assembly:
 <details> 
 <summary> Open Chapter </summary>
+
+### Preparation:
+
+Clean the bearings seats inside the grip with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface and especially in the bearing seat.
+
+
+Tap the grip arm ball link bolt hole with M2.5 tap tool. Do not bottom out the tool.
+
+Per grip you will need:<br>
+1x M2.5x10<br>
+1xM2.5x6<br>
+1x M2.5 washer<br>
+1x 4x8x3 bearing<br>
+1x 4x8x2 bearing<br>
+1x 4x8x3.5 thrust bearing<br>
+1x 4x8x0.5 washer<br>
+
+
+Grease the thrust bearing as needed and position it with the small diameter to the outside.
+
+
+<img width="690" height="461" alt="image" src="https://github.com/user-attachments/assets/5324407b-83db-4af3-b2b7-43fa9b9bde89" />
+
+<img width="357" height="301" alt="image" src="https://github.com/user-attachments/assets/b0be678a-4fc8-4dfc-ab44-9cd6f06a066a" />
+
 
 
 </details>
 <br>
 
-## :
+## Tail Spindle-Shaft Assembly:
+
 <details> 
 <summary> Open Chapter </summary>
+
+## Damped:
+
+### Preparation:
+
+Clean all 3D printed parts of any nylon powder residue on the surface and especially in the damper seat.
+
+When using the Goosky RS5 tail parts, drill a 2.1mm hole at the center of the flats on the shaft.
+
+Use the TPU printed dampers.
+
+Assemble as shown. 
+
+<img width="605" height="343" alt="image" src="https://github.com/user-attachments/assets/88b01a2a-b315-45a6-bcf0-dadf4971ccc9" />
+
+## Undamped:
+
+Assemble parts using thread lock for the set screw. Mikado 550/600 tail parts can be used.
+
+<img width="508" height="282" alt="image" src="https://github.com/user-attachments/assets/356a9246-000f-4dac-b64c-0c393342905c" />
+
 
 
 </details>
