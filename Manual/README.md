@@ -524,8 +524,15 @@ Assemble both side frames to check any vetical play of the main and stage 1 shaf
 <br>
 
 
-Once the shafts are fitted with the right tolerance, other parts can be fitted now like the motor and tail belt guide pulleys and all the servo supports. The taio belt guide pulley assemblies can be removed and replaced at any point since they are easy to get to.
-These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred. 
+Once the shafts are fitted with the right tolerance, other parts can be fitted now like the motor and tail belt guide pulleys and all the servo supports. 
+<br>
+<br>
+The choice of plate/servo supports depends on the servo set used. Refer to the part list to identify parts numbers for 15mm, 20mm and mixed 15-20mm setups. 
+<br>
+<br>
+The tail belt guide pulley assemblies can be removed and replaced at any point since they are easy to get to.
+<br>
+These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred.
 
 <img width="424" height="461" alt="image" src="https://github.com/user-attachments/assets/5646b458-cb6e-4347-8b8f-6778b8d398b9" />
 
