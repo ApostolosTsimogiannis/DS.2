@@ -229,7 +229,9 @@ Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 
 The main shaft can be manufactured from different shafts in the market. Mikado 199mm shaft is convenient as it has the top hole at the right position. The 1st stage shaft can be made from any 10mm shaft on the market. <br>
 Since the shafts are hardened, it is recommended that the position of the drilling is lightly flattened with a Dremel disk so the case hardening is removed and it becomes easier to drill. Use a low speed drill. <br>
-Some dimensions do not need to be exactly as shown below. Shaft length can be up to +2mm. Hole positioning can be within 1mm or more of the shown dimension, but consider the following:The relative distance between the too holes on the Stagge 1 shaft needs to be accurate for parts to fit, and for links to have the dimensions shown in this manual, the relative distance between the two holes on the main shaft needs to be accurate. 
+Some dimensions do not need to be exactly as shown below. Shaft length can be up to +2mm. Hole positioning can be within 1mm or more of the shown dimension, but consider the following:
+The relative distance between the too holes on the Stagge 1 shaft needs to be accurate for parts to fit, and for links to have the dimensions shown in this manual, the relative distance between the two holes on the main shaft needs to be accurate. 
+NOTE: drilled holes are shown as 3.1mm. The dril used should be 3.0mm.
 
 <img width="437" height="360" alt="image" src="https://github.com/user-attachments/assets/fea108eb-678d-465d-9822-78396d7c669a" />
 
