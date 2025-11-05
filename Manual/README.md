@@ -252,7 +252,8 @@ Use a 10mm diameter drill bit to clean out the shaft hole of the printed pulleys
 Use the 2nd M3 thread tool to tap the smaller diameter hole side. This is were the positioning bolt will thread into. <br>
 Assemble as shown below.
 
-<img width="784" height="410" alt="image" src="https://github.com/user-attachments/assets/d16b8c9d-a2fc-4901-88e7-efc6ce8033ed" />
+<img width="815" height="418" alt="image" src="https://github.com/user-attachments/assets/5ff265e1-d63b-4b34-b300-803a7e546475" />
+
 
 
   
@@ -270,7 +271,7 @@ Use 2x0.5mm washers between the OWB and the tail pulley.<br>
 For a Mikado OWB hub (shown below) use 5x0.5mm washers below the OWB.<br>
 Use 1x0.5mm washer above the tail pulley.<br>
 
-<img width="1125" height="354" alt="image" src="https://github.com/user-attachments/assets/c057bdd8-e936-441e-9acf-33dc5e8ec2a8" />
+<img width="1103" height="368" alt="image" src="https://github.com/user-attachments/assets/65be31b9-cac0-4b09-af67-9eea89e80000" />
 
 
   
@@ -287,7 +288,7 @@ Prepare a small amount of two-part epoxy. <br> <br>
 Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.<br>
 The 4 screws are plastic-specific screws 2.9x6mm. If you cannot find self tapping flat tip ones, and you use pointed screws it’s suggested you cut the tip and do not allow it to protrude.
 
-<img width="1170" height="402" alt="image" src="https://github.com/user-attachments/assets/c0573713-a6b1-48c6-afb5-dd4f7ad2e525" />
+<img width="1165" height="402" alt="image" src="https://github.com/user-attachments/assets/ff8112d0-02d8-4b82-9de7-74dffedf3c74" />
 
 
 
@@ -303,7 +304,7 @@ Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure t
 Prepare a small amount of two-part epoxy. <br><br>
 Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.
 
-<img width="1145" height="453" alt="image" src="https://github.com/user-attachments/assets/9ca668ac-edee-4b3a-8af4-05f371ace333" />
+<img width="1144" height="454" alt="image" src="https://github.com/user-attachments/assets/a495630d-203f-4434-8a63-1fd46794fbb5" />
 
 
 </details>
@@ -318,7 +319,7 @@ Prepare a small amount of two-part epoxy for the bearing only. In this instance 
 Use epoxy at the areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. <br> <br>
 
 
-<img width="1124" height="505" alt="image" src="https://github.com/user-attachments/assets/8d657adf-6d2a-43c0-b4d0-c68125c3e5ef" />
+<img width="1146" height="511" alt="image" src="https://github.com/user-attachments/assets/ad04c430-eab1-4816-b4a9-28f0ddc56e90" />
 
 
 
@@ -360,8 +361,7 @@ before you insert the bolt into the grip (highlighted on the drawing).
 The grip arm ball link can be from any helicopter as long as it fits an M3 bolt.
 Mikado grip-arm ball links work well.
 
-<img width="684" height="535" alt="image" src="https://github.com/user-attachments/assets/f16dc257-ee56-43ee-a86e-b8f503cd34f9" />
-
+<img width="719" height="539" alt="image" src="https://github.com/user-attachments/assets/d07306b2-5b8d-4b0e-8e7e-8aab40558621" />
 
 
 </details>
@@ -386,7 +386,7 @@ Assemble the main head block withe the dampers and the spindle first.<br>
 The M3 bolts will pass through by lightly threading them (they will cut a thread
 into the damper).
 
-<img width="1150" height="485" alt="image" src="https://github.com/user-attachments/assets/a3264c3c-87f5-4a36-a41d-9f831f8bc82f" />
+<img width="1151" height="460" alt="image" src="https://github.com/user-attachments/assets/c704469a-bc54-41c4-b143-d0126890dedb" />
 
 
 ## Undamped Head:
@@ -421,7 +421,7 @@ Per grip you will need:<br>
 Grease the thrust bearing as needed and position it with the small diameter to the outside.
 
 
-<img width="698" height="362" alt="image" src="https://github.com/user-attachments/assets/7e55c401-fefc-442d-a0b0-79969e0f4fdb" />
+<img width="752" height="355" alt="image" src="https://github.com/user-attachments/assets/ff68c76e-3cd3-464d-a3fa-b24e415dbb1b" />
 
 
 
@@ -502,7 +502,7 @@ Add one 0.5mm Ø10 washer at the top and bottom of the Stage 1 shaft.
 
 
 Assemble the side frames as shown below.
-Use screws for plastic in all MJF parts.
+Use screws for plastic in all MJF parts 2.9x6 or 2.9x10 as needed. 
 Assemble both side frames to check any vetical play of the main and stage 1 shafts. Add or remove washers as needed to make sure the shaft is not compressed between the plates and that there is no play. Also check that the OWB pulley is not sitting too low and touches the frame.
 
 <img width="794" height="531" alt="image" src="https://github.com/user-attachments/assets/ba3f8892-8fd0-4ba9-8b09-ed578bbbf822" />
@@ -521,7 +521,8 @@ The tail belt guide pulley assemblies can be removed and replaced at any point s
 <br>
 These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred.
 
-<img width="885" height="378" alt="image" src="https://github.com/user-attachments/assets/b7dfb0d3-3c8f-44fc-8d5d-325e4c9cfa1c" />
+<img width="900" height="409" alt="image" src="https://github.com/user-attachments/assets/d686933d-91ec-47c7-912b-a3a6f809b555" />
+
 
 
 
