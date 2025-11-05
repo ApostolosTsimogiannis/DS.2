@@ -32,3 +32,8 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 > ## Disclaimer:
 > Remote Control (RC) Helicopters can cause harm or death to people and animals and damage to property. By following the information shared in this repository, downloading the part files, and building the helicopters, or using the parts in other ways, the user agrees that all responsibility lies with them. The designer is not liable for any harm or damages arising from the use or these parts and cannot guarantee in any way the operation of the components or the helicopter as a whole. Using the parts, assembling the helicopter and using it, is at the users own risk and they hold all resposnibility and liability. Operate all RC vehicles in accordance with safety guidelines and local law requirements.
 <br>
+
+## Information/Social:
+- https://www.youtube.com/@apostolosnt
+- https://www.facebook.com/ds.x.rc.heli.project
+- https://grabcad.com/a.t-79
