@@ -170,7 +170,7 @@ Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-029-10|rear servo support for 15mm servo|
 |02-030-10|rear tray servo mount for 15mm servo|
 |02-031-10|rear lower tray|
-|02-032-20|head block|
+|02-032-20|head block damped|
 |02-033-20|main grip|
 |02-034-20|frame lateral member|
 |02-035-10|carbon plate single support|
