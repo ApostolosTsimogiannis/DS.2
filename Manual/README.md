@@ -133,6 +133,96 @@ Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 </details>
 <br>
 
+## Manufactured Parts:
+<details>
+<summary> Open Chapter </summary>
+
+|Part IS|Part Name|
+|---|---|
+|02-001-10|front shaft|
+|02-002-10|main shaft|
+|02-003-20|3M 56T Stage 1 pulley|
+|02-004-10|3M 22T|
+|02-005-10|3M 67T|
+|02-006-10|3M 56T OWB pulley|
+|02-007-21|lower plate|
+|02-008-21|middle plate|
+|02-009-20|top plate|
+|02-010-21|side plate|
+|02-011-10|rear bow support|
+|02-012-12|front bow support|
+|02-013-10|head plate|
+|02-014-20|main grip plate|
+|02-015-10|tail fin|
+|02-016-10|front landing bow|
+|02-017-10|rear landing bow|
+|02-018-10|landing skid (configurations Default and Left)|
+|02-019-10|motor plate|
+|02-020-10|lower motor plate|
+|02-021-10|front battery mount|
+|02-022-20|rear battery mount|
+|02-023-10|front canopy support (configurations Default and Left)|
+|02-024-10|rear canopy support (configurations Default and Left)|
+|02-025-20|frame cross member|
+|02-026-10|top plate front suppport for 15mm servo|
+|02-027-10|top plate rear suppport for 15mm servo|
+|02-028-10|front servo suppport for 15mm servo|
+|02-029-10|rear servo support for 15mm servo|
+|02-030-10|rear tray servo mount for 15mm servo|
+|02-031-10|rear lower tray|
+|02-032-20|head block|
+|02-033-20|main grip|
+|02-034-20|frame lateral member|
+|02-035-10|carbon plate single support|
+|02-036-20|fixed swash driver|
+|02-037-10|main grip top|
+|02-038-10|tail belt roller|
+|02-039-10|tail belt roller support|
+|02-040-10|tail belt arm support|
+|02-041-10|tail belt arm support bottom|
+|02-042-10|tail belt tensioner arm|
+|02-043-10|tail belt spring support|
+|02-044-10|tail boom bracket|
+|02-045-10|1st stage roller|
+|02-046-10|2nd stage roller|
+|02-047-10|stage 2 roller support|
+|02-048-10|main grip link tube|
+|02-049-10|tail rod guide|
+|02-050-20|tail case|
+|02-051-10|3M-15T tail pulley|
+|02-052-10|tail arm|
+|02-053-10|tail control housing|
+|02-054-10|tail control fork|
+|02-055-10|tail link|
+|02-056-10|tail grip|
+|02-057-10|head damper|
+|02-058-10|tail control form 6mm shaft|
+|02-059-10|tail control housing 6mm shaft|
+|02-060-10|tail arm 6mm shaft|
+|02-061-10|tail damper|
+|02-062-10|top plate front support for 20mm servo|
+|02-063-10|top plate rear support for 20mm servo|
+|02-064-10|front servo support for 20mm servo|
+|02-065-10|rear servo support for 20mm servo|
+|02-066-10|rear tray servo mount for 20mm servo angled|
+|02-067-10|rear tray servo mount for 20mm servo|
+|02-068-10|rear servo support for 15mm head 20mm tail servo|
+|02-069-10|front cable channel|
+|02-070-10|canopy|
+|02-071-10|canopy support|
+|02-072-10|tail boom 680x25mm|
+|02-073-10|tail control rod 660x4mm|
+|02-074-||
+|02-075-||
+|02-076-||
+|02-077-||
+|02-078-||
+|02-079-||
+|02-080-||
+  
+</details>
+<br>
+
 ## Making the Main and Stage 1 Shafts:
 <details> 
 <summary> Open Chapter </summary>
