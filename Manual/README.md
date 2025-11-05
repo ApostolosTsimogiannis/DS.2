@@ -235,9 +235,9 @@ The relative distance between the too holes on the Stagge 1 shaft needs to be ac
 <br>
 NOTE: drilled holes are shown as 3.1mm. The drill bit used should be 3.0mm.
 
-<img width="437" height="360" alt="image" src="https://github.com/user-attachments/assets/fea108eb-678d-465d-9822-78396d7c669a" />
 
-<img width="1280" height="370" alt="image" src="https://github.com/user-attachments/assets/0dfadad3-0176-4c39-8caa-c235420aae5b" />
+<img width="1162" height="323" alt="image" src="https://github.com/user-attachments/assets/777369b3-8d40-4a06-a6a7-db2123ed8b58" />
+
 
   
 </details>
@@ -252,9 +252,9 @@ Use a 10mm diameter drill bit to clean out the shaft hole of the printed pulleys
 Use the 2nd M3 thread tool to tap the smaller diameter hole side. This is were the positioning bolt will thread into. <br>
 Assemble as shown below.
 
-<img width="413" height="660" alt="image" src="https://github.com/user-attachments/assets/7c68d83c-08ca-4446-916c-3249d4dcc54b" />
+<img width="784" height="410" alt="image" src="https://github.com/user-attachments/assets/d16b8c9d-a2fc-4901-88e7-efc6ce8033ed" />
 
-<img width="368" height="398" alt="image" src="https://github.com/user-attachments/assets/f2e23f2a-0c7f-441e-9eea-10f1ac36bec0" />
+
   
 </details>
 <br>
@@ -270,10 +270,8 @@ Use 2x0.5mm washers between the OWB and the tail pulley.<br>
 For a Mikado OWB hub (shown below) use 5x0.5mm washers below the OWB.<br>
 Use 1x0.5mm washer above the tail pulley.<br>
 
-<img width="1280" height="408" alt="image" src="https://github.com/user-attachments/assets/a99ab3b2-1289-4a3e-903c-01bcb0cd8a03" />
+<img width="1125" height="354" alt="image" src="https://github.com/user-attachments/assets/c057bdd8-e936-441e-9acf-33dc5e8ec2a8" />
 
-
-<img width="331" height="444" alt="image" src="https://github.com/user-attachments/assets/bbf51d05-3f42-4d88-8f32-e6624dbb4bf6" />
 
   
 </details>
@@ -289,9 +287,8 @@ Prepare a small amount of two-part epoxy. <br> <br>
 Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.<br>
 The 4 screws are plastic-specific screws 2.9x6mm. If you cannot find self tapping flat tip ones, and you use pointed screws it’s suggested you cut the tip and do not allow it to protrude.
 
-<img width="730" height="413" alt="image" src="https://github.com/user-attachments/assets/4f12fbdd-1aed-47e5-8be4-4bdacd70b153" />
+<img width="1170" height="402" alt="image" src="https://github.com/user-attachments/assets/c0573713-a6b1-48c6-afb5-dd4f7ad2e525" />
 
-<img width="633" height="403" alt="image" src="https://github.com/user-attachments/assets/2a42df7e-98fe-457a-85dd-5f6713cb37ca" />
 
 
 </details>
@@ -306,9 +303,8 @@ Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure t
 Prepare a small amount of two-part epoxy. <br><br>
 Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.
 
-<img width="667" height="460" alt="image" src="https://github.com/user-attachments/assets/726d1275-6599-4979-baa8-00fd7f9ec9ca" />
+<img width="1145" height="453" alt="image" src="https://github.com/user-attachments/assets/9ca668ac-edee-4b3a-8af4-05f371ace333" />
 
-<img width="587" height="368" alt="image" src="https://github.com/user-attachments/assets/05292e70-39a3-4e43-a4af-dc61ef3306cb" />
 
 </details>
 <br>
@@ -322,17 +318,8 @@ Prepare a small amount of two-part epoxy for the bearing only. In this instance 
 Use epoxy at the areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. <br> <br>
 
 
-<img width="505" height="319" alt="image" src="https://github.com/user-attachments/assets/da06a9f7-9e8c-4000-8e8b-632c5af7616e" />
+<img width="1124" height="505" alt="image" src="https://github.com/user-attachments/assets/8d657adf-6d2a-43c0-b4d0-c68125c3e5ef" />
 
-15mm servo supports shown <br>
-
-<img width="515" height="355" alt="image" src="https://github.com/user-attachments/assets/bb24334e-8ee4-4b60-b9de-cd66f061894a" />
-
-Assembled plate with 15mm servo support <br>
-
-<img width="590" height="400" alt="image" src="https://github.com/user-attachments/assets/b5d8e06b-0077-497c-85f9-a80b17f9ad7e" />
-
-Assembled plate with and 20mm servo supports <br>
 
 
 </details>
@@ -373,9 +360,8 @@ before you insert the bolt into the grip (highlighted on the drawing).
 The grip arm ball link can be from any helicopter as long as it fits an M3 bolt.
 Mikado grip-arm ball links work well.
 
-<img width="1096" height="371" alt="image" src="https://github.com/user-attachments/assets/1ca3f094-87b1-4845-9912-ecaf7855d251" />
+<img width="684" height="535" alt="image" src="https://github.com/user-attachments/assets/f16dc257-ee56-43ee-a86e-b8f503cd34f9" />
 
-<img width="652" height="526" alt="image" src="https://github.com/user-attachments/assets/b28b872b-0f4a-4f95-8db3-ef2826d7fc8c" />
 
 
 </details>
@@ -400,9 +386,8 @@ Assemble the main head block withe the dampers and the spindle first.<br>
 The M3 bolts will pass through by lightly threading them (they will cut a thread
 into the damper).
 
-<img width="1014" height="720" alt="image" src="https://github.com/user-attachments/assets/92e63146-1983-41e2-909d-ef2ab2d27f84" />
+<img width="1150" height="485" alt="image" src="https://github.com/user-attachments/assets/a3264c3c-87f5-4a36-a41d-9f831f8bc82f" />
 
-<img width="627" height="475" alt="image" src="https://github.com/user-attachments/assets/4211668a-0e26-4ab3-95fc-6a52e59785a3" />
 
 ## Undamped Head:
 
@@ -436,9 +421,8 @@ Per grip you will need:<br>
 Grease the thrust bearing as needed and position it with the small diameter to the outside.
 
 
-<img width="690" height="461" alt="image" src="https://github.com/user-attachments/assets/5324407b-83db-4af3-b2b7-43fa9b9bde89" />
+<img width="698" height="362" alt="image" src="https://github.com/user-attachments/assets/7e55c401-fefc-442d-a0b0-79969e0f4fdb" />
 
-<img width="357" height="301" alt="image" src="https://github.com/user-attachments/assets/b0be678a-4fc8-4dfc-ab44-9cd6f06a066a" />
 
 
 
@@ -494,7 +478,8 @@ Assemble the motor on the motor plates. The motor plate hole pattern is 2xM4 25m
 2x M4x10 bolts (or other depending on the motor used).<br>
 1x HTD 3M 17T pulley. Other sizes can be used. Belt length or tensioner diameter may need to be adjusted.<br>
 
-<img width="975" height="659" alt="image" src="https://github.com/user-attachments/assets/50d2e15c-5ade-4ea2-b404-4bbcb50fa29e" />
+<img width="661" height="440" alt="image" src="https://github.com/user-attachments/assets/585e6d4f-9b51-43d2-aa29-e03ce5768364" />
+
 
 </details>
 <br>
@@ -520,7 +505,8 @@ Assemble the side frames as shown below.
 Use screws for plastic in all MJF parts.
 Assemble both side frames to check any vetical play of the main and stage 1 shafts. Add or remove washers as needed to make sure the shaft is not compressed between the plates and that there is no play. Also check that the OWB pulley is not sitting too low and touches the frame.
 
-<img width="1306" height="835" alt="image" src="https://github.com/user-attachments/assets/198f1ab9-2b12-43fb-8a59-f59fcc9968e9" />
+<img width="794" height="531" alt="image" src="https://github.com/user-attachments/assets/ba3f8892-8fd0-4ba9-8b09-ed578bbbf822" />
+
 <br>
 <br>
 
@@ -535,9 +521,8 @@ The tail belt guide pulley assemblies can be removed and replaced at any point s
 <br>
 These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred.
 
-<img width="424" height="461" alt="image" src="https://github.com/user-attachments/assets/5646b458-cb6e-4347-8b8f-6778b8d398b9" />
+<img width="885" height="378" alt="image" src="https://github.com/user-attachments/assets/b7dfb0d3-3c8f-44fc-8d5d-325e4c9cfa1c" />
 
-<img width="470" height="448" alt="image" src="https://github.com/user-attachments/assets/4c163624-08a3-46cf-ae2f-f65f8a9f7e62" />
 
 
 
