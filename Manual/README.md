@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-The DS.2 is the second helicopter of the DS.Z RC Heli Project. The helicopter was designed with the flowing goals: 
+The DS.2 is the second helicopter of the DS.X RC Heli Project. The helicopter was designed with the flowing goals: 
 - Make a fully 3D capable RC helicopter.
 - The helicopter must be in the 550 to 600 class.
 - Be as light as possible.
