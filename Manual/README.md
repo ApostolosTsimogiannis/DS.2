@@ -137,88 +137,89 @@ Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 <details>
 <summary> Open Chapter </summary>
 
-|Part ID|Part Name|Process/Material|
-|---|---|---|
-|02-001-10|front shaft|CNC hardened steel|
-|02-002-10|main shaft|CNC hardened steel|
-|02-003-20|3M 56T Stage 1 pulley|MJF/SLS nylon|
-|02-004-10|3M 22T|MJF/SLS nylon|
-|02-005-10|3M 67T|MJF/SLS nylon|
-|02-006-10|3M 56T OWB pulley|MJF/SLS nylon|
-|02-007-21|lower plate|3K carbon sheet|
-|02-008-21|middle plate|3K carbon sheet|
-|02-009-20|top plate|3K carbon sheet|
-|02-010-21|side plate|3K carbon sheet|
-|02-011-10|rear bow support|3K carbon sheet|
-|02-012-12|front bow support|3K carbon sheet|
-|02-013-10|head plate|3K carbon sheet|
-|02-014-20|main grip plate|3K carbon sheet|
-|02-015-10|tail fin|3K carbon sheet|
-|02-016-10|front landing bow|FDM, PLA/PETG/other|
-|02-017-10|rear landing bow|FDM, PLA/PETG/other|
-|02-018-10|landing skid (configurations Default and Left)|FDM, PLA/PETG/other|
-|02-019-10|motor plate|MJF/SLS nylon|
-|02-020-10|lower motor plate|MJF/SLS nylon|
-|02-021-10|front battery mount|MJF/SLS nylon|
-|02-022-20|rear battery mount|MJF/SLS nylon|
-|02-023-10|front canopy support (configurations Default and Left)|FDM, PLA/PETG/other|
-|02-024-10|rear canopy support (configurations Default and Left)|FDM, PLA/PETG/other|
-|02-025-20|frame cross member|MJF/SLS nylon|
-|02-026-10|top plate front suppport for 15mm servo|MJF/SLS nylon|
-|02-027-10|top plate rear suppport for 15mm servo|MJF/SLS nylon|
-|02-028-10|front servo suppport for 15mm servo|MJF/SLS nylon|
-|02-029-10|rear servo support for 15mm servo|MJF/SLS nylon|
-|02-030-10|rear tray servo mount for 15mm servo|MJF/SLS nylon|
-|02-031-10|rear lower tray|FDM, PLA/PETG/other|
-|02-032-20|head block damped|MJF/SLS nylon|
-|02-033-20|main grip|MJF/SLS nylon|
-|02-034-20|frame lateral member|MJF/SLS nylon|
-|02-035-10|carbon plate single support|MJF/SLS nylon|
-|02-036-20|fixed swash driver|MJF/SLS nylon|
-|02-037-10|main grip top|MJF/SLS nylon or FDM PLA/PETG/other|
-|02-038-10|tail belt roller|MJF/SLS nylon|
-|02-039-10|tail belt roller support|MJF/SLS nylon|
-|02-040-10|tail belt arm support|MJF/SLS nylon|
-|02-041-10|tail belt arm support bottom|MJF/SLS nylon|
-|02-042-10|tail belt tensioner arm|MJF/SLS nylon|
-|02-043-10|tail belt spring support|MJF/SLS nylon|
-|02-044-10|tail boom bracket|MJF/SLS nylon|
-|02-045-10|1st stage roller|MJF/SLS nylon|
-|02-046-10|2nd stage roller|MJF/SLS nylon|
-|02-047-10|stage 2 roller support|MJF/SLS nylon|
-|02-048-10|main grip link tube|MJF/SLS nylon|
-|02-049-10|tail rod guide|MJF/SLS nylon or FDM PLA/PETG/other|
-|02-050-20|tail case|MJF/SLS nylon|
-|02-051-10|3M-15T tail pulley|MJF/SLS nylon|
-|02-052-10|tail arm|MJF/SLS nylon|
-|02-053-10|tail control housing|MJF/SLS nylon|
-|02-054-10|tail control fork|MJF/SLS nylon|
-|02-055-10|tail link|MJF/SLS nylon|
-|02-056-10|tail grip|MJF/SLS nylon|
-|02-057-10|head damper|FDM, TPU80|
-|02-058-10|tail control fork 6mm shaft|MJF/SLS nylon|
-|02-059-10|tail control housing 6mm shaft|MJF/SLS nylon|
-|02-060-10|tail arm 6mm shaft|MJF/SLS nylon|
-|02-061-10|tail damper|FDM, TPU80|
-|02-062-10|top plate front support for 20mm servo|MJF/SLS nylon|
-|02-063-10|top plate rear support for 20mm servo|MJF/SLS nylon|
-|02-064-10|front servo support for 20mm servo|MJF/SLS nylon|
-|02-065-10|rear servo support for 20mm servo|MJF/SLS nylon|
-|02-066-10|rear tray servo mount for 20mm servo angled|MJF/SLS nylon|
-|02-067-10|rear tray servo mount for 20mm servo|MJF/SLS nylon or FDM PLA/PETG/other|
-|02-068-10|rear servo support for 15mm head 20mm tail servo|MJF/SLS nylon or FDM PLA/PETG/other|
-|02-069-10|front cable channel|FDM, PLA/PETG/other|
-|02-070-10|canopy|FDM, PLA/PETG/other|
-|02-071-10|canopy support|FDM, PLA/PETG/other|
-|02-072-10|tail boom 680x25mm|Carbon tube|
-|02-073-10|tail control rod 660x4mm|Carbon tube|
-|02-074-10|2nd stage roller insert|FDM, PLA/PETG/other|
-|02-075-|||
-|02-076-|||
-|02-077-|||
-|02-078-|||
-|02-079-|||
-|02-080-|||
+|Part ID|Part Name|Process/Material|Quantity|
+|---|---|---|---|
+|02-001-10|front shaft|CNC hardened steel|1|
+|02-002-10|main shaft|CNC hardened steel|1|
+|02-003-20|3M 56T Stage 1 pulley|MJF/SLS nylon|1|
+|02-004-10|3M 22T|MJF/SLS nylon|1|
+|02-005-10|3M 67T|MJF/SLS nylon|1|
+|02-006-10|3M 56T OWB pulley|MJF/SLS nylon|1|
+|02-007-21|lower plate|3K carbon sheet|1|
+|02-008-21|middle plate|3K carbon sheet|1|
+|02-009-20|top plate|3K carbon sheet|1|
+|02-010-21|side plate (Right and Left editions)|3K carbon sheet|2|
+|02-011-10|rear bow support|3K carbon sheet|2|
+|02-012-12|front bow support|3K carbon sheet|2|
+|02-013-10|head plate|3K carbon sheet|2|
+|02-014-20|main grip plate|3K carbon sheet|4|
+|02-015-10|tail fin|3K carbon sheet|1|
+|02-016-10|front landing bow|FDM, PLA/PETG/other|1|
+|02-017-10|rear landing bow|FDM, PLA/PETG/other|1|
+|02-018-10|landing skid (Right and Left editions)|FDM, PLA/PETG/other|2|
+|02-019-10|motor plate|MJF/SLS nylon|1|
+|02-020-10|lower motor plate|MJF/SLS nylon|1|
+|02-021-10|front battery mount|MJF/SLS nylon|1|
+|02-022-20|rear battery mount|MJF/SLS nylon|1|
+|02-023-10|front canopy support (Right and Left editions)|FDM, PLA/PETG/other|2|
+|02-024-10|rear canopy support (Right and Left editions)|FDM, PLA/PETG/other|2|
+|02-025-20|frame cross member|MJF/SLS nylon|3|
+|02-026-10|top plate front suppport for 15mm servo|MJF/SLS nylon|1|
+|02-027-10|top plate rear suppport for 15mm servo|MJF/SLS nylon|1|
+|02-028-10|front servo suppport for 15mm servo|MJF/SLS nylon|1|
+|02-029-10|rear servo support for 15mm servo|MJF/SLS nylon|1|
+|02-030-10|rear tray servo mount for 15mm servo|MJF/SLS nylon|1|
+|02-031-10|rear lower tray|FDM, PLA/PETG/other|1|
+|02-032-20|head block damped|MJF/SLS nylon|1|
+|02-033-20|main grip|MJF/SLS nylon|2|
+|02-034-20|frame lateral member|MJF/SLS nylon|1|
+|02-035-10|carbon plate single support|MJF/SLS nylon|4|
+|02-036-20|fixed swash driver|MJF/SLS nylon|2|
+|02-037-10|main grip top|MJF/SLS nylon or FDM PLA/PETG/other|4|
+|02-038-10|tail belt roller|MJF/SLS nylon|2|
+|02-039-10|tail belt roller support|MJF/SLS nylon|2|
+|02-040-10|tail belt arm support|MJF/SLS nylon|1|
+|02-041-10|tail belt arm support bottom|MJF/SLS nylon|1|
+|02-042-10|tail belt tensioner arm|MJF/SLS nylon|1|
+|02-043-10|tail belt spring support|MJF/SLS nylon|1|
+|02-044-10|tail boom bracket|MJF/SLS nylon|2|
+|02-045-10|1st stage roller|MJF/SLS nylon|1|
+|02-046-10|2nd stage roller|MJF/SLS nylon|1|
+|02-047-10|stage 2 roller support|MJF/SLS nylon|1|
+|02-048-10|main grip link tube|MJF/SLS nylon|2|
+|02-049-10|tail rod guide|MJF/SLS nylon or FDM PLA/PETG/other|1|
+|02-050-20|tail case|MJF/SLS nylon|1|
+|02-051-10|3M-15T tail pulley|MJF/SLS nylon|1|
+|02-052-10|tail arm|MJF/SLS nylon|1|
+|02-053-10|tail control housing|MJF/SLS nylon|1|
+|02-054-10|tail control fork|MJF/SLS nylon|1|
+|02-055-10|tail link|MJF/SLS nylon|2|
+|02-056-10|tail grip|MJF/SLS nylon|2|
+|02-057-10|head damper|FDM, TPU80|2|
+|02-058-10|tail control fork 6mm shaft|MJF/SLS nylon|1|
+|02-059-10|tail control housing 6mm shaft|MJF/SLS nylon|1|
+|02-060-10|tail arm 6mm shaft|MJF/SLS nylon|1|
+|02-061-10|tail damper|FDM, TPU80|2|
+|02-062-10|top plate front support for 20mm servo|MJF/SLS nylon|1|
+|02-063-10|top plate rear support for 20mm servo|MJF/SLS nylon|1|
+|02-064-10|front servo support for 20mm servo|MJF/SLS nylon|1|
+|02-065-10|rear servo support for 20mm servo|MJF/SLS nylon|1|
+|02-066-10|rear tray servo mount for 20mm servo angled|MJF/SLS nylon|1|
+|02-067-10|rear tray servo mount for 20mm servo|MJF/SLS nylon or FDM PLA/PETG/other|1|
+|02-068-10|rear servo support for 15mm head 20mm tail servo|MJF/SLS nylon or FDM PLA/PETG/other|1|
+|02-069-10|front cable channel|FDM, PLA/PETG/other|1|
+|02-070-10|canopy|FDM, PLA/PETG/other|1|
+|02-071-10|canopy support|FDM, PLA/PETG/other|2|
+|02-072-10|tail boom 680x25mm|Carbon tube|1|
+|02-073-10|tail control rod 660x4mm|Carbon tube|1|
+|02-074-10|2nd stage roller insert|FDM, PLA/PETG/other|1|
+|02-075-||||
+|02-076-||||
+|02-077-||||
+|02-078-||||
+|02-079-||||
+|02-080-||||
+
   
 </details>
 <br>
