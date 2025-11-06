@@ -545,9 +545,22 @@ This will be done later, after the tail has been assembled and the tail belt ten
 </details>
 <br>
 
-## :
+## Tail Assembly:
 <details> 
 <summary> Open Chapter </summary>
+### Preparation:
+
+Clean the bearings seat of the housing with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface and especially in the bearing seat.
+Clean the surface of the two links and the fork to make sure there is no roughness from the printing process that will prevent them from moving completely free and smooth between them.
+Do not overtighten the M3 and the two M2 bolts. Make sure after assembly that everything runs absolutely smooth and free.
+<br>
+<br>
+
+<img width="1278" height="614" alt="image" src="https://github.com/user-attachments/assets/9fab9901-d37f-4087-b824-7f6eeacd5197" />
+<br>
+<br>
+
+
 
 
 </details>
