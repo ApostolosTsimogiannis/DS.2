@@ -70,7 +70,7 @@ The usual materials and tools are required:
 Many of the parts needed are common among various RC helicotpter models available in the market such as Mikado Logo 600 series, Goosky RS5 or RS6, Align etc. so parts from those helis may be available to the builder from other projects.
 All parts, except from the shafts (main, spindle, 1st Stage, tail, tail spindle) can be found in the market. It is recommended the shafts are bought from existing models unless the builder has access to machining and case hardening.
 
-Use thread locking compound in all metal to metal contacts except is a retainer nut is used.
+<ins>Use thread locking compound in all metal to metal contacts except when a lock nut is used.</ins>
 
 For metal thread screws into MJF plastics thread locker is not needed but the thread forming must not go through the entire thread depth. Allow some section for the screw to cut its own thread and ‘lock’ with the mating piece. These screws will not come off. Be careful of how much you tighten such screws. They must not be tightened like in metal.
 Regardless of where a bolt threads into, remember you are tightening M2, M2.5, M3 screws. Do not treat them like M30!
@@ -117,7 +117,7 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 |  |  |  |  |		
 |Stage 1 shaft, 10mm dia, 57mm length|	1|	Stage 1 shaft|	See drawing for hole position and size.|
 |Main shaft, 10mm dia, 184mm length|	1|	Main shaft|	See drawing for hole positions and size.|
-Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptations to fit other spindles is possible but depending on length the helicopter response and flying characteristics will change.|
+Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptations to fit other spindles is possible but depending on length the helicopter response and flying characteristics will change.|
 |Tail shaft and spindle|	1|	Tail|	Tail shafts and the corresponding spindles can be used: Mikado Logo 600/550 series,	Goosky RS5, other models will fit as long as they are 5mm or 6mm diameter. Some modification to the control mechanism may be required to get the required CW/CCW throws.|
 |Swash|	1|	Head|	Any swash that is designed for a 10mm shaft can be used. The original design head geometry requires the two front ball links to be 62mm to 63mm center distance. Using any swash in the market, a set of ball links can be found to fit this requirement. Other distance will alter the linearity of the head.			Swash plate from Align, Mikado, Steam etc will work. See more details further in the manual.|
 |One Way Bearing (OWB) and Hub|	1|	Main shaft transmission|	A suitable main shaft OWB is required. The main pulley is designed for the Mikado Logo 600 OWB and hub but it can be adapted to other hubs in the market. The file is in STEP format so it can be adapted. With users adapting it to other hubs the file download will be expanded to include parts ready to accept other OWB hubs.|
@@ -213,7 +213,7 @@ Spindle, 8mm dia, 109mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-072-10|tail boom 680x25mm|Carbon tube|1|
 |02-073-10|tail control rod 660x4mm|Carbon tube|1|
 |02-074-10|2nd stage roller insert|FDM, PLA/PETG/other|1|
-|02-075-||||
+|02-075-10|main grip insert|MJF/SLS nylon|2|
 |02-076-||||
 |02-077-||||
 |02-078-||||
