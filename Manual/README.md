@@ -548,6 +548,8 @@ This will be done later, after the tail has been assembled and the tail belt ten
 ## Tail Assembly:
 <details> 
 <summary> Open Chapter </summary>
+
+
 ### Preparation:
 
 Clean the bearings seat of the housing with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface and especially in the bearing seat.
