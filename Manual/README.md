@@ -522,6 +522,20 @@ The tail belt guide pulley assemblies can be removed and replaced at any point s
 These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred.
 
 <img width="900" height="409" alt="image" src="https://github.com/user-attachments/assets/d686933d-91ec-47c7-912b-a3a6f809b555" />
+<br>
+<br>
+
+
+Add remaining compenets as shown below.
+For the tail boom support brackets there are options how to set them up. A single tighening bracket can be used along with a plain one (shown below) or two tightening brackets can be used.
+The top piece needs threads cut into it where the M3x25 will thread into.
+All parts assembled with screws for plastic 2.9x10.
+
+A locating screw must be added on the underside of the rear bracket.
+This will be done later, after the tail has been assembled and the tail belt tensioned.
+<br>
+
+<img width="835" height="542" alt="image" src="https://github.com/user-attachments/assets/8d4f3269-76d1-4d67-ac3e-8de4b653b5ff" />
 
 
 
