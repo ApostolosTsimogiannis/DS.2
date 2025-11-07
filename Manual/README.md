@@ -608,9 +608,42 @@ Do not overtighten the M3 and the two M2 bolts. Make sure after assembly that ev
 </details>
 <br>
 
-## :
+## Canopy Assembly:
 <details> 
 <summary> Open Chapter </summary>
+<br>
+The canopy is printed in section sto facilitate printing on personnal FDM 3D printers. The main canopy and windshield pieces include a 2mm lip on the endges which will be welded. Use a soldering iron to melt the lip and weld the pieces together.
+<br>
+The main body of the canopy consists of 4 parts: <br>
+  
+- canopy front
+- canopy rear
+- windshield front
+- windshield back
+<br>
+  
+The recommended sequence of welding the pieces together is:<br>
+  
+  - front section of the canopy with the front section of the windshield
+  - add the rear section of the windshield
+  - add the rear section of the canopy
+
+Cut the connecting material to free up the rear section of the canopy.
+IMPORTANT: Depending on the layer adhesion you can achieve, the rear section of the canopy will have a varrying level of flexibility. Always be mindful of that and put the canopy on the heli when the blades are vertical to the body so the canopy doe not have to sterwetch much to clear the swash-grip links. See images at the end of this section.
+
+<br>
+Then there are the DS.2 lettering and the triangle which are printed as flat pieces and are then glued onto the canopy with CA glue.
+
+
+<br>
+Last are the two supports which are held in place by 2x 2.3mm screws for plastic for each support.
+
+<img width="1485" height="778" alt="image" src="https://github.com/user-attachments/assets/7485204b-4713-43c4-9228-89128b433bc0" />
+
+
+<img width="1090" height="709" alt="image" src="https://github.com/user-attachments/assets/075bacb3-801f-4150-98fa-1b9bd9afaa3b" />
+
+
 
 
 </details>
@@ -712,44 +745,7 @@ Do not overtighten the M3 and the two M2 bolts. Make sure after assembly that ev
 </details>
 <br>
 
-## :
-<details> 
-<summary> Open Chapter </summary>
 
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
 
 
 
