@@ -1,6 +1,11 @@
 # DS.2 RC Helicopter
 DS.2 is a mostly 3D printable 570 size RC helicopter.
 All files are downloadable for users to build this heli. Read the manual section for a complete build instruction.
+<br>
+
+> This repository is still under development and being populated with all the necessary drawings and files.
+<br>
+
 
 ![manual](https://github.com/user-attachments/assets/beab5a99-be0c-4505-8aad-56fd445ac59c)
 
