@@ -183,7 +183,7 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-042-10|tail belt tensioner arm|MJF/SLS nylon|1|
 |02-043-10|tail belt spring support|MJF/SLS nylon|1|
 |02-044-10|tail boom bracket|MJF/SLS nylon|2|
-|02-045-10|1st stage roller|MJF/SLS nylon|1|
+|02-045-20|1st stage roller|MJF/SLS nylon|1|
 |02-046-10|2nd stage roller|MJF/SLS nylon|1|
 |02-047-10|stage 2 roller support|MJF/SLS nylon|1|
 |02-048-10|main grip link tube|MJF/SLS nylon|2|
