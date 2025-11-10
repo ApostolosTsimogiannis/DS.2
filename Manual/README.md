@@ -168,7 +168,7 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-027-10|top plate rear suppport for 15mm servo|MJF/SLS nylon|1|
 |02-028-10|front servo suppport for 15mm servo|MJF/SLS nylon|1|
 |02-029-10|rear servo support for 15mm servo|MJF/SLS nylon|1|
-|02-030-10|rear tray servo mount for 15mm servo|MJF/SLS nylon|1|
+|02-030-10|rear tray servo mount for 15mm servo|MJF/SLS nylon or FDM PLA/PETG/other|1|
 |02-031-10|rear lower tray|FDM, PLA/PETG/other|1|
 |02-032-20|head block damped|MJF/SLS nylon|1|
 |02-033-20|main grip|MJF/SLS nylon|2|
@@ -214,10 +214,10 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-073-10|tail control rod 660x4mm|Carbon tube|1|
 |02-074-10|2nd stage roller insert|FDM, PLA/PETG/other|1|
 |02-075-10|main grip insert|MJF/SLS nylon|2|
-|02-076-||||
-|02-077-||||
-|02-078-||||
-|02-079-||||
+|02-076-10|tail boom bracket plain|MJF/SLS nylon|1|
+|02-077-10|tail boom bracket|MJF/SLS nylon|1|
+|02-078-10|tail boom bracket insert|MJF/SLS nylon|1|
+|02-079-10|tail grip for 6mm tail shaft|MJF/SLS nylon|2|
 |02-080-||||
 
   
