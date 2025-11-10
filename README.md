@@ -14,7 +14,7 @@ All files are downloadable for users to build this heli. Read the manual section
 |Weight (no battery)| 2180kg (1)|
 |Motor Size| 4020-4025|
 |Servos| Both 15mm and 20mm servos can be used|
-|Main blade Size| 560-575mm (2)|
+|Main blade Size| 560-600mm (2)|
 |Tail blade size| 85-95mm (2)|
 |Battery|6s 4000-5600mAh|
 
