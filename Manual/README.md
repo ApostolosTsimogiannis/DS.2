@@ -1,4 +1,4 @@
-# DS.2 RC Helicopter Build Manual
+<img width="1320" height="662" alt="image" src="https://github.com/user-attachments/assets/9ef3b06a-6fb6-49fc-8860-bfb8ff9bb3b5" /># DS.2 RC Helicopter Build Manual
 
 ## Introduction:
 
@@ -218,7 +218,8 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-077-10|tail boom bracket|MJF/SLS nylon|1|
 |02-078-10|tail boom bracket insert|MJF/SLS nylon|1|
 |02-079-10|tail grip for 6mm tail shaft|MJF/SLS nylon|2|
-|02-080-||||
+|02-080-10|3M-14T tail pulley for 6mm shaft|MJF/SLS nylon|1|
+
 
   
 </details>
