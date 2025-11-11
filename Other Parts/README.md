@@ -1,3 +1,1 @@
-All parts not falling in other categories.
-
-This section includes all metallic components needed. Most of these are sourced from other helis in the market. Refer to the manual for adapting existing components and using them to complete the DS.2 build.
+This section includes other parts that are optional. For example ESC mounting plates etc. You can choose which manufacturing method you will use for these.
