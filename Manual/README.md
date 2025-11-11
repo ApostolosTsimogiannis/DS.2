@@ -1,4 +1,4 @@
-<img width="1320" height="662" alt="image" src="https://github.com/user-attachments/assets/9ef3b06a-6fb6-49fc-8860-bfb8ff9bb3b5" /># DS.2 RC Helicopter Build Manual
+# DS.2 RC Helicopter Build Manual
 
 ## Introduction:
 
