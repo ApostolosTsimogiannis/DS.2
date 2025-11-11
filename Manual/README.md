@@ -567,19 +567,25 @@ This can also be done by simply carefully threading the fork onto the slider and
 <br>
 <br>
 Press the two flanged tail shaft bearing into the tail case.
-Then insert the tail boom and push it as far as possible without pressing against or damaging the tail belt rollers.
-Then bring the tail belt out the bottom from inside the tail case and insert the tail pulley.
+Then insert the tail boom and push it as far as possible without pressing against or damaging the tail belt rollers. <br>
+Then bring the tail belt out the bottom from inside the tail case and insert the tail pulley. <br>
 Push the tail pulley inside the tail case.
 <br>
 
 <img width="941" height="616" alt="image" src="https://github.com/user-attachments/assets/c40b8753-6843-437c-ab62-b4f7b437b85e" />
 <br>
-<br
-Once the tail case is pressed al the way in, use a 1mm drill bit to put a hole in the tail boom. Then use a 2.2x6 or similar screw to locate the tail case.
+<br>
+Once the tail case is pressed all the way in, use a 1mm drill bit to put a hole in the tail boom. Then use a 2.2x6 or similar screw to locate the tail case. <br>
 Then use a 2mm pin and drive it through the tail pulley and the 2mm hole opened on the flat spot of the tail shaft.
 <br>
+<br>
+Install the tail arm assembly with an M3x16 bolt. 
+<br>
+Use the printed tail dampers or the original ones to instal the tail spindle.
 
-<img width="566" height="569" alt="image" src="https://github.com/user-attachments/assets/58f27bb8-a118-455e-9cea-c93945c5c3a9" />
+<img width="1279" height="650" alt="image" src="https://github.com/user-attachments/assets/820b2671-c5f1-4ff5-a5a1-f41cbed83152" />
+
+
 <br>
 <br>
 
