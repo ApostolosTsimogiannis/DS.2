@@ -504,6 +504,9 @@ Add one 0.5mm Ø10 washer at the top and bottom of the Stage 1 shaft.
 Assemble the side frames as shown below.
 Use screws for plastic in all MJF parts 2.9x6 or 2.9x10 as needed. 
 Assemble both side frames to check any vetical play of the main and stage 1 shafts. Add or remove washers as needed to make sure the shaft is not compressed between the plates and that there is no play. Also check that the OWB pulley is not sitting too low and touches the frame.
+<br>
+The front battery support and the lower plate front support must be tapped M3. See lower frame assembly.
+<br>
 
 <img width="794" height="531" alt="image" src="https://github.com/user-attachments/assets/ba3f8892-8fd0-4ba9-8b09-ed578bbbf822" />
 
@@ -535,9 +538,7 @@ A locating screw must be added on the underside of the rear bracket.
 This will be done later, after the tail has been assembled and the tail belt tensioned.
 <br>
 
-<img width="835" height="542" alt="image" src="https://github.com/user-attachments/assets/8d4f3269-76d1-4d67-ac3e-8de4b653b5ff" />
-
-
+<img width="895" height="602" alt="image" src="https://github.com/user-attachments/assets/966e411b-a044-4e89-99b5-0a6f26c2a510" />
 
 
 
@@ -556,12 +557,34 @@ Clean the bearings seat of the housing with a small screwdriver and/or a square 
 Clean the surface of the two links and the fork to make sure there is no roughness from the printing process that will prevent them from moving completely free and smooth between them.
 Do not overtighten the M3 and the two M2 bolts. Make sure after assembly that everything runs absolutely smooth and free.
 <br>
+The holes on the arm are for M2 ball links. You do not need to tap the holes. Threading the ball link directly will cut its own thread and provide a good lock. If you do tap it, only tap the first few theards.
+<br>
+The fitting of the control fork onto the bronze slider is a tricky part of the assembly. If you have the correct tapping tool (M7 or M*, depending on using 5mm or 6mm tail shaft) make a start to the thread without going all the way through so the fork wioll lock by cutting the last few threards itself.
+This can also be done by simply carefully threading the fork onto the slider and let it cut the threads. You need to be extra careful since the larger diameter of the slider with short thread pitch can easily misalign the parts and damage the fork. If you go this way you may want to have a second fork printed in case you damage the first.
 <br>
 
 <img width="1278" height="614" alt="image" src="https://github.com/user-attachments/assets/9fab9901-d37f-4087-b824-7f6eeacd5197" />
 <br>
 <br>
+Press the two flanged tail shaft bearing into the tail case.
+Then insert the tail boom and push it as far as possible without pressing against or damaging the tail belt rollers.
+Then bring the tail belt out the bottom from inside the tail case and insert the tail pulley.
+Push the tail pulley inside the tail case.
+<br>
 
+<img width="941" height="616" alt="image" src="https://github.com/user-attachments/assets/c40b8753-6843-437c-ab62-b4f7b437b85e" />
+<br>
+<br
+Once the tail case is pressed al the way in, use a 1mm drill bit to put a hole in the tail boom. Then use a 2.2x6 or similar screw to locate the tail case.
+Then use a 2mm pin and drive it through the tail pulley and the 2mm hole opened on the flat spot of the tail shaft.
+<br>
+
+<img width="566" height="569" alt="image" src="https://github.com/user-attachments/assets/58f27bb8-a118-455e-9cea-c93945c5c3a9" />
+<br>
+<br>
+
+
+<br>
 
 
 
@@ -576,17 +599,30 @@ Do not overtighten the M3 and the two M2 bolts. Make sure after assembly that ev
 </details>
 <br>
 
-## :
+## Lower Frame Assembly:
 <details> 
 <summary> Open Chapter </summary>
+Use screws for plastic (2.9x10) where the screws go into MJF parts. On the right side use longer screws for plastic on the tensioner spring support piece.
+<br>
+For FDM parts such as landing bows and rear bottom tray use M3 into the thread inserts. Use thread locking compound.
+<br>
+<br>
+
+<img width="1369" height="656" alt="image" src="https://github.com/user-attachments/assets/5626ffcc-3fc5-4b31-b4e4-cabe7d9c99b2" />
+
+
 
 
 </details>
 <br>
 
-## :
+## Final Head Assembly and Grip Links:
 <details> 
 <summary> Open Chapter </summary>
+The grip links require 30-35mm threaded rods. Use 2.5mm so that the grip link tubes work. If you use 3mm you have to design your own grip link tubes.
+The distance between the ball links is approx. 16.5mm (the length of the grip link tube).
+
+
 
 
 </details>
