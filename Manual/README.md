@@ -582,12 +582,21 @@ Then use a 2mm pin and drive it through the tail pulley and the 2mm hole opened 
 Install the tail arm assembly with an M3x16 bolt. 
 <br>
 Use the printed tail dampers or the original ones to instal the tail spindle.
+<br>
+<br>
 
 <img width="1279" height="650" alt="image" src="https://github.com/user-attachments/assets/820b2671-c5f1-4ff5-a5a1-f41cbed83152" />
 
-
 <br>
 <br>
+The tail grip links can be attached to the tail fork using 2mm pins or M2x12 and nut. In the case of the pin make sure the pin has enough resistance going into the nylon part to be stable under vibration but also not to prevent the tail form moving completely free. When using bolt and nut use thread lock and make sure the nut is not on tight to interfere with free movement.
+<br>
+The M2.5 that connect the grip links to the grips must be theaded in with care. Due to the printing process the parts may not be absolutely the correct dimensions and in this case this can produce some friction at hi blade angles. Make sure you test this and if required keep the M2.5 bolt slightly loose. Due to the natural locking in the nylon part it will not come out under vibration. Test everythign moves smoothly and freely.
+<br>
+Install the tail fin as shown.
+<br>
+<br>
+<img width="1320" height="662" alt="image" src="https://github.com/user-attachments/assets/2df69352-8bcd-4d4a-a5fb-5ef438276f61" />
 
 
 <br>
