@@ -219,6 +219,9 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-078-10|tail boom bracket insert|MJF/SLS nylon|1|
 |02-079-10|tail grip for 6mm tail shaft|MJF/SLS nylon|2|
 |02-080-10|3M-14T tail pulley for 6mm shaft|MJF/SLS nylon|1|
+|02-081-10|tail boom bracket w insert (full and plain editions)|MJF/SLS nylon|1|
+|02-082-10|tail boom bracket insert|MJF/SLS nylon|1|
+
 
 
   
