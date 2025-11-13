@@ -104,16 +104,28 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 |4x8x3 bearing|	2|	Tail grip|	MR84ZZ|
 |4x8x3.5 thrust|	2|	Tail grip|	F4x8S|
 |4x8x2 bearing|	2|	Tail grip|	MR84|
-|3x8x4 bearing|	??|	Stage 2 belt idler ??|	693ZZ|
 |Belt HTD 3M 234mm/10mm (L/W)|	1|	Stage 1 belt|	Prefer flexible belts|
 |Belt HTD 3M 234mm/15mm (L/W)|	1|	Stage 2| belt|	Prefer flexible belts|
-|Belt HTD 3M 1680-1698mm/6mm| 	1|	Tail belt|	Use any length available. Adjust tail boom length accordingly.|
+|Belt HTD 3M 1680-1698mm/6mm| 	1|	Tail belt|	Use any length in this range. Adjust tail boom length accordingly. 1680mm is max 560mm main blade and 85mm tail blades. 1698 allows up to 600mm main and 95mm tail blades. Check blade interference when before flight. |
 |  |  |  |  |			
-|Washer| | | |			
-|Washer| | | |
-|Washer| | | |
-|washer| | | |
-|2.9x6mm screws for plastic|	4|	frame| |
+|Washer 4x8x0.5|	>4|	Tail| |
+|Washer 3x7x0.5|	>4|	Idlers (if needed)| |
+|Washer 8x12x0.5|	2|	Head| |
+|Washer 10x16x0.5, 0.2|	>8|	Head, main shaft, stage 1 shaft| |
+| | | | |
+|2.9x6mm for plastic|	>4|	Frame	| |
+|2.9x8mm for plastic|	40|	Frame	| |
+|2.9x10mm for plastic|	>10|	Frame	| |
+|2.2x6mm for plastic|	2|	Locating screws for tail boom	| |
+|2.2x10mm for plastic|	16|	Servos	|Or servo screws |
+| | | | |
+|M2x8|	10|	Belt idler supports	| |
+|M3x12|	8|	Motor plate, landing bows	| |
+|M3x16|	6|	Grips, tail, frame	| |
+|M3x20|	7|	Tail grips, idlers	| |
+|M3x25|	7|	Head, tail, idlers	| |
+|M3x30|	12|	Grips, tail, head	| |
+|M4 x 30|	2	|Grips	| |
 |  |  |  |  |		
 |Stage 1 shaft, 10mm dia, 57mm length|	1|	Stage 1 shaft|	See drawing for hole position and size.|
 |Main shaft, 10mm dia, 184mm length|	1|	Main shaft|	See drawing for hole positions and size.|
