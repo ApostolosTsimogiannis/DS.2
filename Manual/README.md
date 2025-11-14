@@ -8,7 +8,7 @@ The DS.2 is the second helicopter of the DS.X RC Heli Project. The helicopter wa
 - Be as light as possible.
 - Use the minimum number of metallic parts.
 - Be 3D printable.
-- Use as many parts as possible that are available ion the market (not helicopter specific).
+- Use as many parts as possible that are available on the market (not helicopter specific).
 - Be able to use parts from multiple other helicopter brands where needed (metallic parts).
 
 These would make the helicopter essentially an ‘open source’ type of project since builders can make the parts locally and cheaply. The very low count of metallic parts guarantees that this helicopter will never run out of spares either!
@@ -16,7 +16,7 @@ These would make the helicopter essentially an ‘open source’ type of project
 The design started in December 2023 and settled to a 570 size and was completed in 2024. It has flown very well and has proven reliable and robust in moderate 3D flight, including a few crashes!
 A few parts underwent small modifications and this is the final version (v2.1) of the helicopter. 
 
-Since each build will be unique, each builder must treat this as a semi-prototype helicopter.
+Since each build will be unique, _each builder must treat this as a semi-prototype helicopter_.
 
 Enjoy the build!
 
@@ -44,44 +44,44 @@ To view a copy of this license, visit https://creativecommons.org/licenses/by-nc
 
 ## General information about the build:
 
-The DS.2 is a RC helicopter intended for hobbyists with advanced knowledge of assembling helicopters and tool skills to build or adapt parts. This manual is not a exhaustive presentation of the build process and good assembly practices and knowledge of RC helicopter assembly are prerequisites for this build.
+The DS.2 is a RC helicopter intended for hobbyists with advanced knowledge of assembling helicopters and tool skills to build or adapt parts. This manual is not an exhaustive presentation of the build process and good assembly practices and knowledge of RC helicopter assembly are prerequisites for this build.
 
 The builder must be capable and have the tools to:
 
-- Drill precision holes in hardened shafts.
+- Drill precision holes in hardened steel shafts.
 - Cut hardened shafts.
 - Use drills or other tools to drill or clean holes and bearing seats.
 
 
 The model is built using the following materials:
-- Carbon sheet
-- MJF (MultiJet Fusion) 3D printed parts
-- FDM 3D printed parts
-- Existing parts of commercially available RC helicopters
-- Bearings, screws, belts widely available in the market.
+- Carbon sheet.
+- MJF (MultiJet Fusion) 3D printed parts.
+- FDM 3D printed parts (no specific material is required).
+- Existing parts of commercially available RC helicopters.
+- Bearings, screws, belts and other widely available on the market.
 
-The usual materials and tools are required:
-- Thread lock
-- Epoxy glue
-- Lubricating oil
-- Soldering iron
+Materials and tools are required:
+- Thread lock.
+- Epoxy glue.
+- Lubricating oil/grease.
+- Soldering iron.
 - Hex, torx and other drivers, depending on the screws used.
 
-Many of the parts needed are common among various RC helicotpter models available in the market such as Mikado Logo 600 series, Goosky RS5 or RS6, Align etc. so parts from those helis may be available to the builder from other projects.
-All parts, except from the shafts (main, spindle, 1st Stage, tail, tail spindle) can be found in the market. It is recommended the shafts are bought from existing models unless the builder has access to machining and case hardening.
+Some of the parts needed are from common RC helicotpter models available on the market, such as Mikado Logo 600 series, Goosky RS5 or RS6, Align etc., so these parts may already be available to the builder from other projects.
+All parts, except from the shafts (main, spindle, 1st Stage, tail, tail spindle) can be found on the market. It is recommended the shafts are bought from existing models unless the builder has access to machining and case hardening.
 
 <ins>Use thread locking compound in all metal to metal contacts except when a lock nut is used.</ins>
 
-For metal thread screws into MJF plastics thread locker is not needed but the thread forming must not go through the entire thread depth. Allow some section for the screw to cut its own thread and ‘lock’ with the mating piece. These screws will not come off. Be careful of how much you tighten such screws. They must not be tightened like in metal.
+For metal thread screws into MJF plastics, thread locker is not needed but the thread forming must not go through the entire thread depth. Allow some length for the screw to cut its own thread and ‘lock’ with the mating MJF piece. Be careful of how much you tighten such screws. 
 Regardless of where a bolt threads into, remember you are tightening M2, M2.5, M3 screws. Do not treat them like M30!
 
 All metal thread bolts used must be high strength.
 
 When using screws specifically made for plastic, no thread tool is needed. The screw will form its own thread and can be tightened more than metal screws in plastic. These screws are not very good at being removable and over-tightening them will reduce further the number of times they can be loosened and tightened.
 
-All bearing seats must be cleaned with a tool that has a square edge. Some screwdrivers will do or square tip exacto knives. The seat must be cleaned form the nylon powder and the edges pressed. This will make the bearing seat better. All nylon parts have a small surface roughness which allows for some give, so bearings fit with a moderate transition fit, perfect for the use.
+All bearing seats must be cleaned with a tool that has a square edge. Some screwdrivers will do, or square tip exacto knives. The seat must be cleaned form the nylon powder and the edges pressed. This will make the bearing seat better. All nylon parts have a small surface roughness which allows for some give, so bearings fit with a moderate transition fit, perfect for the use.
 
-MJF 3D printed parts are only accurate to more than 0.1mm which is not machining accuracy, therefore some part assembly may require part cleaning. The work on the pieces should not require material removal and parts should fit as expected. If this is not the case then discuss with your MJF parts manufacturer.
+MJF 3D printed parts are only accurate to 0.1mm (or less) which is not machining accuracy, therefore some part assembly may require part cleaning. The work on the pieces should not require material removal and parts should fit as expected. If this is not the case then discuss with your MJF parts manufacturer.
 
 It is recommended that SLS is not used as a process. Depending on the implementation parts may be more brittle that expected. Discuss with your 3D print shop and maybe test one or two pieces for flexibility.
 <br>
@@ -130,19 +130,18 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 |Stage 1 shaft, 10mm dia, 57mm length|	1|	Stage 1 shaft|	See drawing for hole position and size.|
 |Main shaft, 10mm dia, 184mm length|	1|	Main shaft|	See drawing for hole positions and size.|
 Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptations to fit other spindles is possible but depending on length the helicopter response and flying characteristics will change.|
-|Tail shaft and spindle|	1|	Tail|	Tail shafts and the corresponding spindles can be used: Mikado Logo 600/550 series,	Goosky RS5, other models will fit as long as they are 5mm or 6mm diameter. Some modification to the control mechanism may be required to get the required CW/CCW throws.|
+|Tail shaft and spindle|	1|	Tail|	Tail shafts and the corresponding spindles that can be used: Mikado Logo 600/550 series,	Goosky RS5, other models will fit as long as they are 5mm or 6mm diameter. Some modification to the control mechanism may be required to get the required CW/CCW throws.|
+|Tail bronze slider| 1| Tail| This must be from the corresponding tail used i.e. for 5mm or 6mm shaft.|
 |Swash|	1|	Head|	Any swash that is designed for a 10mm shaft can be used. The original design head geometry requires the two front ball links to be 62mm to 63mm center distance. Using any swash in the market, a set of ball links can be found to fit this requirement. Other distance will alter the linearity of the head.			Swash plate from Align, Mikado, Steam etc will work. See more details further in the manual.|
 |One Way Bearing (OWB) and Hub|	1|	Main shaft transmission|	A suitable main shaft OWB is required. The main pulley is designed for the Mikado Logo 600 OWB and hub but it can be adapted to other hubs in the market. The file is in STEP format so it can be adapted. With users adapting it to other hubs the file download will be expanded to include parts ready to accept other OWB hubs.|
-|17T HTD 3M motor pulley|	1|	Stage 1 transmission|	An alu pulley is needed at the motor. These are readily available in the market (usually AF type for 10mm belt).|
+|17T HTD 3M motor pulley|	1|	Stage 1 transmission|	An alu pulley is needed at the motor. These are readily available on the market (usually AF type for 10mm belt).|
 |Dowel pins 3mm|	3|	Tail belt tensioners|	2x19mm, 1x28mm|
 |Dowel pins 2mm|	1|	Tail pulley	|
-|  |  |  |  |		
-|  |  |  |  |		
-|  |  |  |  |		
 
 
 
 </details>
+<br>
 <br>
 
 ## Manufactured Parts:
@@ -241,12 +240,12 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 <details> 
 <summary> Open Chapter </summary>
 
-The main shaft can be manufactured from different shafts in the market. Mikado 199mm shaft is convenient as it has the top hole at the right position. The 1st stage shaft can be made from any 10mm shaft on the market. <br>
-Since the shafts are hardened, it is recommended that the position of the drilling is lightly flattened with a Dremel disk so the case hardening is removed and it becomes easier to drill. Use a low speed drill. <br>
-Some dimensions do not need to be exactly as shown below. Shaft length can be up to +2mm. Hole positioning can be within 1mm or more of the shown dimension, but consider the following: <br>
-The relative distance between the too holes on the Stagge 1 shaft needs to be accurate for parts to fit, and for links to have the dimensions shown in this manual, the relative distance between the two holes on the main shaft needs to be accurate. 
+The main shaft can be manufactured from a variety of shafts on the market. Mikado 199mm shaft is convenient as it has the top hole at approx. the right position. The 1st stage shaft can be made from any 10mm shaft on the market. <br>
+Since the shafts are hardened, it is recommended that the position of the drilling for the holes is lightly flattened with a Dremel disk so the case hardening is removed and it becomes easier to drill. Use a low speed drill. <br>
+Some dimensions do not need to be exactly as shown below. Shaft length can vary up to +2mm. Hole positioning can be within 1mm or more of the shown dimension, but consider the following: <br>
+The relative distance between the two holes on the Stage 1 shaft needs to be accurate for parts to fit, and for links to have the dimensions shown in this manual, the relative distance between the two holes on the main shaft needs to be accurate. 
 <br>
-NOTE: drilled holes are shown as 3.1mm. The drill bit used should be 3.0mm.
+NOTE: drilled holes are shown as 3.1mm. The drill bit used can be 3.0mm since M3 bolts are slightly below this value.
 
 
 <img width="1162" height="323" alt="image" src="https://github.com/user-attachments/assets/777369b3-8d40-4a06-a6a7-db2123ed8b58" />
@@ -261,7 +260,7 @@ NOTE: drilled holes are shown as 3.1mm. The drill bit used should be 3.0mm.
 <summary> Open Chapter </summary>
 
 ### Preparation:
-Use a 10mm diameter drill bit to clean out the shaft hole of the printed pulleys. Do not use a normal high speed drill. If you do not have a low speed drill press, use a choke and drill bit, and drive it through by hand, turning as you go. Go back and forth s few times to clean out any surface debris form the printing process.
+Use a 10mm diameter drill bit to clean out the shaft hole of the printed pulleys. Do not use a normal high speed drill. If you do not have a low speed drill press, use a choke and drill bit, and drive it through by hand, turning as you go. Go back and forth s few times to clean out any surface debris form the printing process and smooth out any inacuracies.
 Use the 2nd M3 thread tool to tap the smaller diameter hole side. This is were the positioning bolt will thread into. <br>
 Assemble as shown below.
 
@@ -280,9 +279,9 @@ Assemble as shown below.
 ### Preparation:
 Clean all surfaces and the 10mm shaft hole of the tail pulley as in the previous section. <br><br>
 Assemble as shown below.<br>
-Use 2x0.5mm washers between the OWB and the tail pulley.<br>
-For a Mikado OWB hub (shown below) use 5x0.5mm washers below the OWB.<br>
-Use 1x0.5mm washer above the tail pulley.<br>
+Use 2 10x0.5mm washers between the OWB and the tail pulley.<br>
+For a Mikado OWB hub (shown below) use 5 10x0.5mm washers below the OWB.<br>
+Use 1 10x0.5mm washer above the tail pulley.<br>
 
 <img width="1103" height="368" alt="image" src="https://github.com/user-attachments/assets/65be31b9-cac0-4b09-af67-9eea89e80000" />
 
@@ -296,9 +295,10 @@ Use 1x0.5mm washer above the tail pulley.<br>
 <summary> Open Chapter </summary>
 
 ### Preparation:
-Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use air gun if you have one.<br>
-Prepare a small amount of two-part epoxy. <br> <br>
-Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.<br>
+Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use an air gun if you have one.<br>
+Prepare a small amount of two-part epoxy.
+<br> <br>
+Use epoxy on all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills as it will require more cleaning later. Especially the bearings need a very small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.<br>
 The 4 screws are plastic-specific screws 2.9x6mm. If you cannot find self tapping flat tip ones, and you use pointed screws it’s suggested you cut the tip and do not allow it to protrude.
 
 <img width="1165" height="402" alt="image" src="https://github.com/user-attachments/assets/ff8112d0-02d8-4b82-9de7-74dffedf3c74" />
@@ -313,9 +313,9 @@ The 4 screws are plastic-specific screws 2.9x6mm. If you cannot find self tappin
 <summary> Open Chapter </summary>
 
 ### Preparation:
-Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use air gun if you have one.<br>
+Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use an air gun if you have one.<br>
 Prepare a small amount of two-part epoxy. <br><br>
-Use epoxy at all areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.
+Use epoxy on all areas marked with the orange arrow in the drawing. Make sure you do not use too much. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. Press the 3D printed parts onto the carbon plate so they are flush with the edges and do not protrude. This is important for the fit in the assembled frame later.
 
 <img width="1144" height="454" alt="image" src="https://github.com/user-attachments/assets/a495630d-203f-4434-8a63-1fd46794fbb5" />
 
@@ -327,7 +327,7 @@ Use epoxy at all areas marked with the orange arrow in the drawing. Make sure yo
 <details> 
 <summary> Open Chapter </summary>
 ### Preparation:
-Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use air gun if you have one.<br>
+Clean all surfaces of the 3D printed parts with a small screwdriver. Make sure there is no nylon powder residue on the surface. You can use an air gun if you have one.<br>
 Prepare a small amount of two-part epoxy for the bearing only. In this instance the 3D printed parts are fitted without glue so they can easily be replaced. <br><br>
 Use epoxy at the areas marked with the orange arrow in the drawing. Make sure you do not use too much and it overspills. Especially the bearings need a small amount only, to function as a retainer. CA glue can also be used for the bearings. <br> <br>
 
@@ -365,12 +365,12 @@ Grease the thrust bearing as needed and position it with the small diameter to t
 <br>
 
 Use the inner Ø10 washers as needed to allow
-minimal play of each grip when assembled (~0.2mm total gap).
+minimal play of each grip when assembled (~0.2mm max total gap).
 
 The Ø8 washer must only contact the inner race of the outer bearing.
 
 You can leave the ball link for later, as you need to add the grip arm link
-before you insert the bolt into the grip (highlighted on the drawing).
+before you insert the bolt into the grip (highlighted in the drawing).
 The grip arm ball link can be from any helicopter as long as it fits an M3 bolt.
 Mikado grip-arm ball links work well.
 
@@ -391,13 +391,11 @@ Mikado grip-arm ball links work well.
 Clean all 3D printed parts of any nylon powder residue on the surface and especially in the damper seat.<br>
 Make sure all M3 bolts can pass through the main head block.<br>
 
-Per grip you will need:<br>
+You will need:<br>
 6x M3x25<br>
 6x M3 lock nuts<br>
 
-Assemble the main head block withe the dampers and the spindle first.<br>
-The M3 bolts will pass through by lightly threading them (they will cut a thread
-into the damper).
+Assemble the main head block with the dampers and the spindle first.<br>
 
 <img width="1151" height="460" alt="image" src="https://github.com/user-attachments/assets/c704469a-bc54-41c4-b143-d0126890dedb" />
 
@@ -423,7 +421,7 @@ Tap the grip arm ball link bolt hole with M2.5 tap tool. Do not bottom out the t
 
 Per grip you will need:<br>
 1x M2.5x10<br>
-1xM2.5x6<br>
+1x M2.5x6<br>
 1x M2.5 washer<br>
 1x 4x8x3 bearing<br>
 1x 4x8x2 bearing<br>
@@ -451,8 +449,6 @@ Grease the thrust bearing as needed and position it with the small diameter to t
 
 ### Preparation:
 
-Clean all 3D printed parts of any nylon powder residue on the surface and especially in the damper seat.
-
 When using the Goosky RS5 tail parts, drill a 2.1mm hole at the center of the flats on the shaft.
 
 Use the TPU printed dampers.
@@ -463,7 +459,7 @@ Assemble as shown.
 
 ## Undamped:
 
-Assemble parts using thread lock for the set screw. Mikado 550/600 tail parts can be used.
+Assemble parts using thread lock for the set screw. The example below is with Mikado 550/600 tail parts.
 
 <img width="508" height="282" alt="image" src="https://github.com/user-attachments/assets/356a9246-000f-4dac-b64c-0c393342905c" />
 
@@ -478,18 +474,18 @@ Assemble parts using thread lock for the set screw. Mikado 550/600 tail parts ca
 
 ### Preparation:
 
-Clean the bearings seat of the lower plate with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface and especially in the bearing seat.
+Clean the bearings seat of the lower plate with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface.
 
 To mount the motor plates to the frame screws for plastic or bolts can be used. 
-If using bolts, the holes must be tapped. Tap the 4x M3 holes of the top plate and the 4x M2.5 on the lower plate. Do not tap al the way through so the last few threads lock into the plastic.
+If using bolts, the holes must be tapped. Tap the 4x M3 holes of the top plate and the 4x M2.5 on the lower plate. Do not tap all the way through so the last few threads lock into the plastic.
 
 Also tap the 1x M3 position on the lower frame, where the tensioner roller bolt will thread into.
 
 
-Assemble the motor on the motor plates. The motor plate hole pattern is 2xM4 25mm and 2x M4 30mm.<br>
+Assemble the motor on the motor plates. The motor plate hole pattern is 2x M4 Ø25mm and 2x M4 Ø30mm.<br>
 1x 6x13x5 bearing.<br>
 2x M4x10 bolts (or other depending on the motor used).<br>
-1x HTD 3M 17T pulley. Other sizes can be used. Belt length or tensioner diameter may need to be adjusted.<br>
+1x HTD 3M 17T pulley. <br>
 
 <img width="661" height="440" alt="image" src="https://github.com/user-attachments/assets/585e6d4f-9b51-43d2-aa29-e03ce5768364" />
 
@@ -515,10 +511,10 @@ Add one 0.5mm Ø10 washer at the top and bottom of the Stage 1 shaft.
 
 
 Assemble the side frames as shown below.
-Use screws for plastic in all MJF parts 2.9x6 or 2.9x10 as needed. 
+Use screws for plastic in all MJF parts 2.9x8 and 2.9x10 are needed. 
 Assemble both side frames to check any vetical play of the main and stage 1 shafts. Add or remove washers as needed to make sure the shaft is not compressed between the plates and that there is no play. Also check that the OWB pulley is not sitting too low and touches the frame.
 <br>
-The front battery support and the lower plate front support must be tapped M3. See lower frame assembly.
+The front battery support must be tapped M3. See lower frame assembly.
 <br>
 
 <img width="794" height="531" alt="image" src="https://github.com/user-attachments/assets/ba3f8892-8fd0-4ba9-8b09-ed578bbbf822" />
@@ -527,7 +523,7 @@ The front battery support and the lower plate front support must be tapped M3. S
 <br>
 
 
-Once the shafts are fitted with the right tolerance, other parts can be fitted now like the motor and tail belt guide pulleys and all the servo supports. 
+Once the shafts are fitted, other parts can be fitted like the motor and tail belt guide pulleys and all the servo supports. 
 <br>
 <br>
 The choice of plate/servo supports depends on the servo set used. Refer to the part list to identify parts numbers for 15mm, 20mm and mixed 15-20mm setups. 
@@ -535,7 +531,7 @@ The choice of plate/servo supports depends on the servo set used. Refer to the p
 <br>
 The tail belt guide pulley assemblies can be removed and replaced at any point since they are easy to get to.
 <br>
-These are assembled using M2 bolts or 2mm screws for plastic. The latter are preferred.
+These are assembled using M2 bolts or 2mm screws for plastic.
 
 <img width="900" height="409" alt="image" src="https://github.com/user-attachments/assets/d686933d-91ec-47c7-912b-a3a6f809b555" />
 <br>
@@ -543,9 +539,9 @@ These are assembled using M2 bolts or 2mm screws for plastic. The latter are pre
 
 
 Add remaining compenets as shown below.
-For the tail boom support brackets there are options how to set them up. A single tighening bracket can be used along with a plain one (shown below) or two tightening brackets can be used.
+For the tail boom support brackets, there are options how to set them up. A single tighening bracket can be used along with a plain one (shown below) or two tightening brackets can be used.
 The top piece needs threads cut into it where the M3x25 will thread into.
-All parts assembled with screws for plastic 2.9x10.
+All parts assembled with screws for plastic.
 
 A locating screw must be added on the underside of the rear bracket.
 This will be done later, after the tail has been assembled and the tail belt tensioned.
@@ -553,9 +549,9 @@ This will be done later, after the tail has been assembled and the tail belt ten
 
 <img width="895" height="602" alt="image" src="https://github.com/user-attachments/assets/966e411b-a044-4e89-99b5-0a6f26c2a510" />
 
-Use screws for plastic (2.9x10) where the screws go into MJF parts. On the right side use longer screws for plastic on the tensioner spring support piece.
+Use screws for plastic where the screws go into MJF parts. 
 <br>
-For FDM parts such as landing bows and rear bottom tray use M3 into the thread inserts. Use thread locking compound.
+For FDM parts such as landing bows use M3 into the thread inserts. Use thread locking compound.
 <br>
 <br>
 
@@ -586,13 +582,13 @@ For FDM parts such as landing bows and rear bottom tray use M3 into the thread i
 
 ### Preparation:
 
-Clean the bearings seat of the housing with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface and especially in the bearing seat.
+Clean the bearings seat of the housing with a small screwdriver and/or a square tip tool. Make sure there is no nylon powder residue on the surface.
 Clean the surface of the two links and the fork to make sure there is no roughness from the printing process that will prevent them from moving completely free and smooth between them.
 Do not overtighten the M3 and the two M2 bolts. Make sure after assembly that everything runs absolutely smooth and free.
 <br>
 The holes on the arm are for M2 ball links. You do not need to tap the holes. Threading the ball link directly will cut its own thread and provide a good lock. If you do tap it, only tap the first few theards.
 <br>
-The fitting of the control fork onto the bronze slider is a tricky part of the assembly. If you have the correct tapping tool (M7 or M*, depending on using 5mm or 6mm tail shaft) make a start to the thread without going all the way through so the fork wioll lock by cutting the last few threards itself.
+Fitting the control fork onto the bronze slider is a tricky part of the assembly. If you have the correct tapping tool (M7 or M8, depending on the shaft diameter) make a start to the thread without going all the way through so the fork will lock in the last few threards.
 This can also be done by simply carefully threading the fork onto the slider and let it cut the threads. You need to be extra careful since the larger diameter of the slider with short thread pitch can easily misalign the parts and damage the fork. If you go this way you may want to have a second fork printed in case you damage the first.
 <br>
 
@@ -600,7 +596,7 @@ This can also be done by simply carefully threading the fork onto the slider and
 <br>
 <br>
 Press the two flanged tail shaft bearing into the tail case.
-Then insert the tail boom and push it as far as possible without pressing against or damaging the tail belt rollers. <br>
+Then insert the tail boom and push it as far as possible without pressing against the tail belt rollers. <br>
 Then bring the tail belt out the bottom from inside the tail case and insert the tail pulley. <br>
 Push the tail pulley inside the tail case.
 <br>
@@ -608,7 +604,7 @@ Push the tail pulley inside the tail case.
 <img width="941" height="616" alt="image" src="https://github.com/user-attachments/assets/c40b8753-6843-437c-ab62-b4f7b437b85e" />
 <br>
 <br>
-Once the tail case is pressed all the way in, use a 1mm drill bit to put a hole in the tail boom. Then use a 2.2x6 or similar screw to locate the tail case. <br>
+Once the tail case is pressed all the way in, use a 1.5mm drill bit to put a hole in the tail boom. Then use a 2.2x6 or similar screw to locate the tail case. <br>
 Then use a 2mm pin and drive it through the tail pulley and the 2mm hole opened on the flat spot of the tail shaft.
 <br>
 <br>
@@ -624,7 +620,7 @@ Use the printed tail dampers or the original ones to instal the tail spindle.
 <br>
 The tail grip links can be attached to the tail fork using 2mm pins or M2x12 and nut. In the case of the pin make sure the pin has enough resistance going into the nylon part to be stable under vibration but also not to prevent the tail form moving completely free. When using bolt and nut use thread lock and make sure the nut is not on tight to interfere with free movement.
 <br>
-The M2.5 that connect the grip links to the grips must be theaded in with care. Due to the printing process the parts may not be absolutely the correct dimensions and in this case this can produce some friction at hi blade angles. Make sure you test this and if required keep the M2.5 bolt slightly loose. Due to the natural locking in the nylon part it will not come out under vibration. Test everythign moves smoothly and freely.
+The M2.5 that connect the grip links to the grips must be theaded in with care. Due to the printing process the parts may not be absolutely perfect and in this can produce some friction at high blade angles. Make sure you test this and if required keep the M2.5 bolt slightly loose. Test everything moves smoothly and freely.
 <br>
 Install the tail fin as shown.
 <br>
