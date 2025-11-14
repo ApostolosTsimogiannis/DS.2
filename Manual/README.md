@@ -553,6 +553,26 @@ This will be done later, after the tail has been assembled and the tail belt ten
 
 <img width="895" height="602" alt="image" src="https://github.com/user-attachments/assets/966e411b-a044-4e89-99b5-0a6f26c2a510" />
 
+Use screws for plastic (2.9x10) where the screws go into MJF parts. On the right side use longer screws for plastic on the tensioner spring support piece.
+<br>
+For FDM parts such as landing bows and rear bottom tray use M3 into the thread inserts. Use thread locking compound.
+<br>
+<br>
+
+<img width="1369" height="656" alt="image" src="https://github.com/user-attachments/assets/5626ffcc-3fc5-4b31-b4e4-cabe7d9c99b2" />
+
+<br>
+<br>
+<img width="868" height="586" alt="image" src="https://github.com/user-attachments/assets/f0045a78-9b4a-4cd8-98d7-6890b59cfb68" />
+
+<br>
+<br>
+<img width="855" height="578" alt="image" src="https://github.com/user-attachments/assets/5b1c6530-4a56-43e9-9c64-563ad9334406" />
+
+<br>
+<br>
+<img width="957" height="640" alt="image" src="https://github.com/user-attachments/assets/c7f9de4c-2c2e-4dc9-9f11-e106eaff6f85" />
+
 
 
 
@@ -627,16 +647,10 @@ Install the tail fin as shown.
 </details>
 <br>
 
-## Lower Frame Assembly:
+## :
 <details> 
 <summary> Open Chapter </summary>
-Use screws for plastic (2.9x10) where the screws go into MJF parts. On the right side use longer screws for plastic on the tensioner spring support piece.
-<br>
-For FDM parts such as landing bows and rear bottom tray use M3 into the thread inserts. Use thread locking compound.
-<br>
-<br>
 
-<img width="1369" height="656" alt="image" src="https://github.com/user-attachments/assets/5626ffcc-3fc5-4b31-b4e4-cabe7d9c99b2" />
 
 
 
