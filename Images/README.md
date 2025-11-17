@@ -9,3 +9,9 @@ Renders and other images of the DS.2.
 
 
 ![1744195786972s](https://github.com/user-attachments/assets/d56f4838-1992-48f0-a728-7829180843fa)
+
+
+<img width="2558" height="1161" alt="DS 2 v2 1 front 2" src="https://github.com/user-attachments/assets/b9daa79a-88a4-4434-bd68-b56a3bfd411a" />
+
+
+<img width="2558" height="1161" alt="DS 2 v2 1 front 3" src="https://github.com/user-attachments/assets/a1fb86b4-b304-48bf-9d98-000d2254841d" />
