@@ -635,30 +635,36 @@ Install the tail fin as shown.
 </details>
 <br>
 
-## :
+## Servo Installation:
 <details> 
 <summary> Open Chapter </summary>
-
-
-</details>
+Servos are strighforward to install.
+<br>
+The ball link distance on all servos is 14mm.
+<br>
 <br>
 
-## :
-<details> 
-<summary> Open Chapter </summary>
+<img width="1912" height="1095" alt="image" src="https://github.com/user-attachments/assets/12dd1f7c-b1b7-4143-a310-7310573d0572" />
+<br>
+<br
 
+### Following servo instllation, measure and cut the appropriate length of the tail rod.
 
-
-
-
-</details>
 <br>
 
 ## Final Head Assembly and Grip Links:
 <details> 
 <summary> Open Chapter </summary>
 The grip links require 30-35mm threaded rods. Use 2.5mm so that the grip link tubes work. If you use 3mm you have to design your own grip link tubes.
-The distance between the ball links is approx. 16.5mm (the length of the grip link tube).
+
+|Link | Ball link distance *| Center-to-center distance |
+|---|---|---|
+|Grip link | 16.5mm | 54mm |
+|Swash link | 19mm | 57mm |
+<br>
+* with Mikado 2.5mm ball links.
+
+<img width="1805" height="910" alt="image" src="https://github.com/user-attachments/assets/ab0d3c2c-654d-4f44-b61f-d1140e9e8381" />
 
 
 
