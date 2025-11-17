@@ -663,29 +663,31 @@ The grip links require 30-35mm threaded rods. Use 2.5mm so that the grip link tu
 |Swash link | 19mm | 57mm |
 <br>
 * with Mikado 2.5mm ball links.
-
+<br>
+<br>
 <img width="1805" height="910" alt="image" src="https://github.com/user-attachments/assets/ab0d3c2c-654d-4f44-b61f-d1140e9e8381" />
-
+<br>
 
 
 
 </details>
 <br>
 
-## :
+## Completing the assembly:
 <details> 
 <summary> Open Chapter </summary>
-
-
-</details>
+Install the ESC on the front tray. A specific tray for the HW 150 is provided. Other trays can be designed and printed (hole spacing on the carbon 42mm and frame width 44mm). If you design a tray for a specific ESC don;t forget to upload it to the repository (Other parts). 
+<br>
+The right side frame has slots for cable ties to pass through and hold the wire bunddle routed to the back of the heli.
+<br>
 <br>
 
-## :
-<details> 
-<summary> Open Chapter </summary>
+<img width="2234" height="928" alt="image" src="https://github.com/user-attachments/assets/0e84caa7-71a6-45b1-a2fd-24a9ab0dc971" />
+
 
 
 </details>
+
 <br>
 
 ## Canopy Assembly:
@@ -725,105 +727,16 @@ Last are the two supports which are held in place by 2x 2.3mm screws for plastic
 
 
 
+![IMG_20251107_163636](https://github.com/user-attachments/assets/e52848b9-dfc9-47d8-ba3c-40ec5280c320)
+
+
+![IMG_20251107_163458](https://github.com/user-attachments/assets/6d79ac31-a45d-4337-85c5-d01d4fc79cd8)
 
 </details>
 <br>
 
-## :
-<details> 
-<summary> Open Chapter </summary>
 
 
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
-
-## :
-<details> 
-<summary> Open Chapter </summary>
-
-
-</details>
-<br>
 
 
 
