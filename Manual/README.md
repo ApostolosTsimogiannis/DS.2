@@ -156,15 +156,15 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |02-004-10|3M 22T|MJF/SLS nylon|1|
 |02-005-10|3M 67T|MJF/SLS nylon|1|
 |02-006-10|3M 56T OWB pulley|MJF/SLS nylon|1|
-|02-007-21|lower plate|3K carbon sheet|1|
-|02-008-21|middle plate|3K carbon sheet|1|
-|02-009-20|top plate|3K carbon sheet|1|
-|02-010-21|side plate (Right and Left editions)|3K carbon sheet|2|
-|02-011-10|rear bow support|3K carbon sheet|2|
-|02-012-12|front bow support|3K carbon sheet|2|
-|02-013-10|head plate|3K carbon sheet|2|
-|02-014-20|main grip plate|3K carbon sheet|4|
-|02-015-10|tail fin|3K carbon sheet|1|
+|02-007-21|lower plate|3K carbon sheet 2.5mm|1|
+|02-008-21|middle plate|3K carbon sheet 2.5mm|1|
+|02-009-20|top plate|3K carbon sheet 2.5mm|1|
+|02-010-21|side plate (Right and Left editions)|3K carbon sheet 2.0mm|2|
+|02-011-10|rear bow support|3K carbon sheet 2.0mm|2|
+|02-012-10|front bow support|3K carbon sheet 2.0mm|2|
+|02-013-10|head plate|3K carbon sheet 2.5mm|2|
+|02-014-20|main grip plate|3K carbon sheet 3.0mm|4|
+|02-015-10|tail fin|3K carbon sheet 2.0mm|1|
 |02-016-10|front landing bow|FDM, PLA/PETG/other|1|
 |02-017-10|rear landing bow|FDM, PLA/PETG/other|1|
 |02-018-10|landing skid (Right and Left editions)|FDM, PLA/PETG/other|2|
