@@ -645,6 +645,9 @@ The ball link distance on all servos is 14mm.
 <br>
 
 <img width="1912" height="1095" alt="image" src="https://github.com/user-attachments/assets/12dd1f7c-b1b7-4143-a310-7310573d0572" />
+
+</details> 
+
 <br>
 <br
 
