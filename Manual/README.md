@@ -684,6 +684,10 @@ The right side frame has slots for cable ties to pass through and hold the wire 
 
 <img width="2234" height="928" alt="image" src="https://github.com/user-attachments/assets/0e84caa7-71a6-45b1-a2fd-24a9ab0dc971" />
 
+<br>
+
+### IMPORTANT: After each flight, especially the first few flights, thoughroughly check all screws, parts, linkages for any excessive wear or damage. Each build is unique, each printer produces somewhat different strength parts so treat your heli as a form of prototype and inspect it as one before you fly it.
+<br>
 
 
 </details>
