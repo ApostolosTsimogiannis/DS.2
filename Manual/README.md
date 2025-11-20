@@ -551,7 +551,8 @@ This will be done later, after the tail has been assembled and the tail belt ten
 
 Use screws for plastic where the screws go into MJF parts. 
 <br>
-For FDM parts such as landing bows use M3 into the thread inserts. Use thread locking compound.
+The landibng bows are designed for M3 thread inserts. Use 5.7mm length M3 inserts and M3x10 or M3x12. 
+Use thread locking compound.
 <br>
 <br>
 
