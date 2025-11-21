@@ -667,9 +667,11 @@ The grip links require 30-35mm threaded rods. Use 2.5mm so that the grip link tu
 * with Mikado 2.5mm ball links.
 <br>
 <br>
-Use washers between the head and the grip bearing (0.5mm) and leave a marginal gap/play. Do not add washers so the grips become tight. A very small play must remain.
+Undamped head: No washers are used between the head and the grip bearings. If the grips have zero play when assembled onto the head, then adjust the internal washer in both grips so when everything is assembled there is a very small gap/play. The undapmed head may have oscillations at certain head speeds depending on the tightness of the head-grips assembly.
 <br>
-This is more important for the undamped head setup and can affect oscillations. The undapmed head may have oscillations at certain head speeds depending on the tightness of the head-grips assembly.
+<br>
+Damped head: Use washers between the head and the grip bearing (0.5mm). The head should not be tight and the grips should fall freely when all assembled.
+<br>
 Depending on the head you will use (damped or undamped) the gains and general setup of the the FBL can be very different. 
 <br>
 <br>
