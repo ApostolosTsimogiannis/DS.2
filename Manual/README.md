@@ -16,7 +16,7 @@ These would make the helicopter essentially an ‘open source’ type of project
 The design started in December 2023 and settled to a 570 size and was completed in 2024. It has flown very well and has proven reliable and robust in moderate 3D flight, including a few crashes!
 A few parts underwent small modifications and this is the final version (v2.1) of the helicopter. 
 
-Since each build will be unique, _each builder must treat this as a semi-prototype helicopter_.
+Since each build will be unique, _each builder must treat this as a prototype helicopter_.
 
 Enjoy the build!
 
@@ -402,7 +402,7 @@ Assemble the main head block with the dampers and the spindle first.<br>
 
 ## Undamped Head:
 
-The assembly and preparation are identical. There are just no dampers!
+The assembly and preparation are identical. There are just no dampers! See notes regarding FBL gains etc in the final assembly section.
 
 
 </details>
@@ -667,8 +667,21 @@ The grip links require 30-35mm threaded rods. Use 2.5mm so that the grip link tu
 * with Mikado 2.5mm ball links.
 <br>
 <br>
+Use washers between the head and the grip bearing (0.5mm) and leave a marginal gap/play. Do not add washers so the grips become tight. A very small play must remain.
+<br>
+This is more important for the undamped head setup and can affect oscillations. The undapmed head may have oscillations at certain head speeds depending on the tightness of the head-grips assembly.
+Depending on the head you will use (damped or undamped) the gains and general setup of the the FBL can be very different. 
+<br>
+<br>
+
+<img width="1482" height="532" alt="image" src="https://github.com/user-attachments/assets/d698cdef-7f1e-4f58-978a-35cef438dfba" />
+<br>
+<br>
+
 <img width="1805" height="910" alt="image" src="https://github.com/user-attachments/assets/ab0d3c2c-654d-4f44-b61f-d1140e9e8381" />
 <br>
+<br>
+
 
 
 
