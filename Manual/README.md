@@ -104,9 +104,9 @@ It is recommended that SLS is not used as a process. Depending on the implementa
 |4x8x3 bearing|	2|	Tail grip|	MR84ZZ|
 |4x8x3.5 thrust|	2|	Tail grip|	F4x8S|
 |4x8x2 bearing|	2|	Tail grip|	MR84|
-|Belt HTD 3M 234mm/10mm (L/W)|	1|	Stage 1 belt|	Prefer flexible belts|
-|Belt HTD 3M 234mm/15mm (L/W)|	1|	Stage 2| belt|	Prefer flexible belts|
-|Belt HTD 3M 1680-1698mm/6mm| 	1|	Tail belt|	Use any length in this range. Adjust tail boom length accordingly. 1680mm is max 560mm main blade and 85mm tail blades. 1698 allows up to 600mm main and 95mm tail blades. Check blade interference when before flight. |
+|Belt 3M 234mm/10mm (L/W)|	1|	Stage 1 belt|	STD and HTD belts can be used. Prefer STD (e.g. S3M) belts. With HTD belts there will be somewhat higher friction and reduced service life.|
+|Belt 3M 234mm/15mm (L/W)|	1|	Stage 2| belt|	STD and HTD belts can be used. Prefer STD (e.g. S3M) belts. With HTD belts there will be somewhat higher friction and reduced service life.|
+|Belt 3M 1680-1698mm/6mm| 	1|	Tail belt|	Use any length in this range. Adjust tail boom length accordingly. 1680mm is max 560mm main blade and 85mm tail blades. 1698 allows up to 600mm main and 95mm tail blades. Check blade interference when before flight. Suitable belts from helis are Goblin 570, Goosky RS5. |
 |  |  |  |  |			
 |Washer 4x8x0.5|	>4|	Tail| |
 |Washer 3x7x0.5|	>4|	Idlers (if needed)| |
@@ -134,7 +134,7 @@ Spindle, 8mm dia, 108mm length|	1|	Spindle	Mikado Logo 600 compatible.| Adaptati
 |Tail bronze slider| 1| Tail| This must be from the corresponding tail used i.e. for 5mm or 6mm shaft.|
 |Swash|	1|	Head|	Any swash that is designed for a 10mm shaft can be used. The original design head geometry requires the two front ball links to be 62mm to 63mm center distance. Using any swash in the market, a set of ball links can be found to fit this requirement. Other distance will alter the linearity of the head.			Swash plate from Align, Mikado, Steam etc will work. See more details further in the manual.|
 |One Way Bearing (OWB) and Hub|	1|	Main shaft transmission|	A suitable main shaft OWB is required. The main pulley is designed for the Mikado Logo 600 OWB and hub but it can be adapted to other hubs in the market. The file is in STEP format so it can be adapted. With users adapting it to other hubs the file download will be expanded to include parts ready to accept other OWB hubs.|
-|17T HTD 3M motor pulley|	1|	Stage 1 transmission|	An alu pulley is needed at the motor. These are readily available on the market (usually AF type for 10mm belt).|
+|17T 3M motor pulley|	1|	Stage 1 transmission|	An alu pulley is needed at the motor. These are readily available on the market (usually AF type for 10mm belt).|
 |Dowel pins 3mm|	3|	Tail belt tensioners|	2x19mm, 1x28mm|
 |Dowel pins 2mm|	1|	Tail pulley	|
 
@@ -485,7 +485,7 @@ Also tap the 1x M3 position on the lower frame, where the tensioner roller bolt 
 Assemble the motor on the motor plates. The motor plate hole pattern is 2x M4 Ø25mm and 2x M4 Ø30mm.<br>
 1x 6x13x5 bearing.<br>
 2x M4x10 bolts (or other depending on the motor used).<br>
-1x HTD 3M 17T pulley. <br>
+1x 3M 17T pulley. <br>
 
 <img width="661" height="440" alt="image" src="https://github.com/user-attachments/assets/585e6d4f-9b51-43d2-aa29-e03ce5768364" />
 
